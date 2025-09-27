@@ -1041,7 +1041,7 @@ function Alarmas() {
         titulo: "",
         veces: 1,                 // cuántas veces al día
         horas: ["08:00"],         // arreglo de horas (length = veces)
-        dias: { lu: true, ma: true, mi: true, ju: true, vi: true, sa: false, do: false },
+        dias: { lu: true, ma: true, mi: true, ju: true, vi: true, sa: true, do: true },
         activar: true,
         vigenciaDias: "",         // vacío o 0 => sin vigencia
     });
