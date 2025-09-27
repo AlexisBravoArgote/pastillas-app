@@ -1,0 +1,5373 @@
+﻿[
+    {
+        "id": "paracetamol",
+        "nombre": "Paracetamol",
+        "principioActivo": "Paracetamol (Acetaminofén)",
+        "categoria": "OTC",
+        "indicaciones": [ "Fiebre", "Dolor leve a moderado" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "120 mg/5 mL",
+                "notas": "Pediátrico"
+            }
+        ],
+        "advertencias": [ "Evitar dosis superiores a las recomendadas.", "No combinar con alcohol." ],
+        "efectosSecundarios": [ "Náusea", "Erupción cutánea", "Toxicidad hepática en sobredosis" ],
+        "interacciones": [ "Anticoagulantes", "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Tempra", "Tylenol", "Panadol" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Paracetamol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=paracetamol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ibuprofeno",
+        "nombre": "Ibuprofeno",
+        "principioActivo": "Ibuprofeno",
+        "categoria": "OTC",
+        "indicaciones": [ "Dolor", "Inflamación", "Fiebre" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "200–400 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "100 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Tomar con alimentos.", "Evitar en úlcera activa o insuficiencia renal." ],
+        "efectosSecundarios": [ "Dispepsia", "Náusea", "Riesgo gastrointestinal" ],
+        "interacciones": [ "Anticoagulantes", "Otros AINEs" ],
+        "requiereReceta": false,
+        "marcas": [ "Advil", "Motrin", "Algidol" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ibuprofeno",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ibuprofen+randomized"
+            }
+        ]
+    },
+    {
+        "id": "omeprazol",
+        "nombre": "Omeprazol",
+        "principioActivo": "Omeprazol",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Reflujo gastroesofágico", "Úlcera péptica" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "20 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Uso prolongado solo bajo supervisión médica." ],
+        "efectosSecundarios": [ "Cefalea", "Dolor abdominal" ],
+        "interacciones": [ "Clopidogrel" ],
+        "requiereReceta": false,
+        "marcas": [ "Losec", "Mopral", "Genérico GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Omeprazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=omeprazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "omeprazol-plus",
+        "nombre": "Omeprazol + Bicarbonato",
+        "principioActivo": "Omeprazol / Bicarbonato de sodio",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Reflujo", "Dispepsia" ],
+        "presentaciones": [
+            {
+                "forma": "Sobres",
+                "dosis": "20 mg/1680 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Consultar si síntomas persisten." ],
+        "efectosSecundarios": [ "Cefalea", "Molestias GI" ],
+        "interacciones": [ "Otros antiácidos" ],
+        "requiereReceta": false,
+        "marcas": [ "Zegerid" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Omeprazol + Bicarbonato",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=omeprazole+bicarbonate"
+            }
+        ]
+    },
+    {
+        "id": "amoxicilina",
+        "nombre": "Amoxicilina",
+        "principioActivo": "Amoxicilina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones bacterianas" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "250 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Requiere receta.", "Completar esquema antibiótico." ],
+        "efectosSecundarios": [ "Diarrea", "Erupción cutánea", "Náusea" ],
+        "interacciones": [ "Anticoagulantes", "Alopurinol" ],
+        "requiereReceta": true,
+        "marcas": [ "Amoxil", "Trimox", "Amoxicilina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amoxicilina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amoxicillin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "loratadina",
+        "nombre": "Loratadina",
+        "principioActivo": "Loratadina",
+        "categoria": "OTC",
+        "indicaciones": [ "Alergia", "Rinitis alérgica", "Urticaria" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "5 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Evitar exceder dosis diaria." ],
+        "efectosSecundarios": [ "Somnolencia leve", "Cefalea" ],
+        "interacciones": [ "Alcohol", "Otros antihistamínicos" ],
+        "requiereReceta": false,
+        "marcas": [ "Clarityne", "Sensibit D", "Claritine" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Loratadina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=loratadine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "naproxeno",
+        "nombre": "Naproxeno",
+        "principioActivo": "Naproxeno",
+        "categoria": "OTC",
+        "indicaciones": [ "Dolor", "Inflamación" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "250–500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Tomar con alimentos" ],
+        "efectosSecundarios": [ "Molestias GI" ],
+        "interacciones": [ "Anticoagulantes", "Otros AINEs" ],
+        "requiereReceta": false,
+        "marcas": [ "Apronax", "Flanax" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Naproxeno",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=naproxen+randomized"
+            }
+        ]
+    },
+    {
+        "id": "metformina",
+        "nombre": "Metformina",
+        "principioActivo": "Metformina",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 2" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "850–1000 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Control médico" ],
+        "efectosSecundarios": [ "Molestias GI" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Glucophage", "Dimefor", "Metformina GI" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Metformina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=metformin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "losartan",
+        "nombre": "Losartán",
+        "principioActivo": "Losartán potásico",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión arterial" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50–100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Requiere control médico." ],
+        "efectosSecundarios": [ "Mareos" ],
+        "interacciones": [ "AINEs" ],
+        "requiereReceta": true,
+        "marcas": [ "Cozaar", "Lotesin", "Losartán GI" ],
+        "comprarEn": [ { "tienda": "Farmacias del Ahorro" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Losartán",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=losartan+randomized"
+            }
+        ]
+    },
+    {
+        "id": "atorvastatina",
+        "nombre": "Atorvastatina",
+        "principioActivo": "Atorvastatina",
+        "categoria": "Rx",
+        "indicaciones": [ "Colesterol alto" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10–40 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitoreo hepático." ],
+        "efectosSecundarios": [ "Mialgia" ],
+        "interacciones": [ "Jugo de toronja" ],
+        "requiereReceta": true,
+        "marcas": [ "Lipitor", "Torvacard" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Atorvastatina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=atorvastatin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ketorolaco",
+        "nombre": "Ketorolaco",
+        "principioActivo": "Ketorolaco trometamina",
+        "categoria": "Rx",
+        "indicaciones": [ "Dolor agudo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Uso corto"
+            }
+        ],
+        "advertencias": [ "Riesgo GI" ],
+        "efectosSecundarios": [ "Somnolencia" ],
+        "interacciones": [ "Anticoagulantes" ],
+        "requiereReceta": true,
+        "marcas": [ "Dolac", "Ketorolaco GI" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ketorolaco",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ketorolac+randomized"
+            }
+        ]
+    },
+    {
+        "id": "azitromicina",
+        "nombre": "Azitromicina",
+        "principioActivo": "Azitromicina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Requiere receta." ],
+        "efectosSecundarios": [ "Diarrea" ],
+        "interacciones": [ "Antiácidos" ],
+        "requiereReceta": true,
+        "marcas": [ "Zitromax", "Azitromicina GI" ],
+        "comprarEn": [ { "tienda": "Farmacias Guadalajara" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Azitromicina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=azithromycin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "salbutamol",
+        "nombre": "Salbutamol",
+        "principioActivo": "Salbutamol",
+        "categoria": "Rx",
+        "indicaciones": [ "Asma" ],
+        "presentaciones": [
+            {
+                "forma": "Inhalador",
+                "dosis": "100 mcg/puff",
+                "notas": "Rescate"
+            }
+        ],
+        "advertencias": [ "Supervisión médica." ],
+        "efectosSecundarios": [ "Temblor" ],
+        "interacciones": [ "Beta-bloqueadores" ],
+        "requiereReceta": true,
+        "marcas": [ "Ventolin", "Aerolin" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Salbutamol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=salbutamol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "amlodipino",
+        "nombre": "Amlodipino",
+        "principioActivo": "Amlodipino besilato",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5–10 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Control médico regular." ],
+        "efectosSecundarios": [ "Edema periférico" ],
+        "interacciones": [ "Otros antihipertensivos" ],
+        "requiereReceta": true,
+        "marcas": [ "Norvas", "Amlodipino GI" ],
+        "comprarEn": [ { "tienda": "Farmacias del Ahorro" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amlodipino",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amlodipine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "enalapril",
+        "nombre": "Enalapril",
+        "principioActivo": "Enalapril maleato",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10–20 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear potasio y función renal." ],
+        "efectosSecundarios": [ "Tos seca" ],
+        "interacciones": [ "Diuréticos" ],
+        "requiereReceta": true,
+        "marcas": [ "Renitec", "Enalapril GI" ],
+        "comprarEn": [ { "tienda": "Benavides" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Enalapril",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=enalapril+randomized"
+            }
+        ]
+    },
+    {
+        "id": "furosemida",
+        "nombre": "Furosemida",
+        "principioActivo": "Furosemida",
+        "categoria": "Rx",
+        "indicaciones": [ "Edema", "Hipertensión" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "40 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Control electrolítico." ],
+        "efectosSecundarios": [ "Hipopotasemia" ],
+        "interacciones": [ "Digoxina" ],
+        "requiereReceta": true,
+        "marcas": [ "Lasix", "Furosemida GI" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Furosemida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=furosemide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "prednisona",
+        "nombre": "Prednisona",
+        "principioActivo": "Prednisona",
+        "categoria": "Rx",
+        "indicaciones": [ "Inflamación" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5–50 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "No suspender abruptamente." ],
+        "efectosSecundarios": [ "Hiperglucemia" ],
+        "interacciones": [ "AINEs" ],
+        "requiereReceta": true,
+        "marcas": [ "Meticorten", "Prednisona GI" ],
+        "comprarEn": [ { "tienda": "Farmacias Guadalajara" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Prednisona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=prednisone+randomized"
+            }
+        ]
+    },
+    {
+        "id": "pantoprazol",
+        "nombre": "Pantoprazol",
+        "principioActivo": "Pantoprazol",
+        "categoria": "Rx",
+        "indicaciones": [ "Reflujo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "40 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Uso prolongado bajo control médico." ],
+        "efectosSecundarios": [ "Dolor abdominal" ],
+        "interacciones": [ "Clopidogrel" ],
+        "requiereReceta": true,
+        "marcas": [ "Pantozol", "Pantoprazol GI" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Pantoprazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=pantoprazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "clonazepam",
+        "nombre": "Clonazepam",
+        "principioActivo": "Clonazepam",
+        "categoria": "Rx",
+        "indicaciones": [ "Ansiedad" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.5–2 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Riesgo de dependencia." ],
+        "efectosSecundarios": [ "Somnolencia" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Rivotril" ],
+        "comprarEn": [ { "tienda": "Farmacia San Pablo" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Clonazepam",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=clonazepam+randomized"
+            }
+        ]
+    },
+    {
+        "id": "clorfenamina",
+        "nombre": "Clorfenamina",
+        "principioActivo": "Clorfenamina maleato",
+        "categoria": "OTC",
+        "indicaciones": [ "Alergia", "Rinitis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "4 mg",
+                "notas": "Cada 6–8h"
+            }
+        ],
+        "advertencias": [ "Puede causar somnolencia." ],
+        "efectosSecundarios": [ "Sueño", "Boca seca" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Clorfenamina GI", "Contac NT" ],
+        "comprarEn": [ { "tienda": "Benavides" } ],
+        "papers": [
+            {
+                "titulo": "PubMed — Clorfenamina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=chlorpheniramine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "diclofenaco",
+        "nombre": "Diclofenaco",
+        "principioActivo": "Diclofenaco",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Dolor", "Inflamación", "Artritis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Evitar en úlceras gástricas" ],
+        "efectosSecundarios": [ "Gastritis", "Náusea" ],
+        "interacciones": [ "AINEs", "Anticoagulantes" ],
+        "requiereReceta": false,
+        "marcas": [ "Voltaren", "Diclofenaco Genérico", "Dolo-Neurobión" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Diclofenaco",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=diclofenaco+randomized"
+            }
+        ]
+
+
+    },
+    {
+        "id": "ciprofloxacino",
+        "nombre": "Ciprofloxacino",
+        "principioActivo": "Ciprofloxacino",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones bacterianas" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Completar tratamiento" ],
+        "efectosSecundarios": [ "Diarrea", "Náusea" ],
+        "interacciones": [ "Antiácidos", "Cafeína" ],
+        "requiereReceta": true,
+        "marcas": [ "Ciproxin", "Ciflox", "Ciprofloxacino Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ciprofloxacino",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ciprofloxacino+randomized"
+            }
+        ]
+    },
+    {
+        "id": "claritromicina",
+        "nombre": "Claritromicina",
+        "principioActivo": "Claritromicina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias", "Faringitis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Completar tratamiento" ],
+        "efectosSecundarios": [ "Náusea", "Diarrea" ],
+        "interacciones": [ "Warfarina", "Estatinas" ],
+        "requiereReceta": true,
+        "marcas": [ "Klaricid", "Biaxin", "Claritromicina Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Claritromicina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=claritromicina+randomized"
+            }
+        ]
+    },
+    {
+        "id": "cefalexina",
+        "nombre": "Cefalexina",
+        "principioActivo": "Cefalexina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones de piel", "Infecciones urinarias" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Completar tratamiento" ],
+        "efectosSecundarios": [ "Náusea", "Diarrea" ],
+        "interacciones": [ "Alcohol", "Probenecid" ],
+        "requiereReceta": true,
+        "marcas": [ "Keflex", "Lexin", "Cefalexina Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Cefalexina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=cefalexina+randomized"
+            }
+        ]
+    },
+    {
+        "id": "insulina-glargina",
+        "nombre": "Insulina Glargina",
+        "principioActivo": "Insulina Glargina",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 1 y 2" ],
+        "presentaciones": [
+            {
+                "forma": "Inyectable",
+                "dosis": "100 UI/mL",
+                "notas": "Adultos y niños"
+            }
+        ],
+        "advertencias": [ "Requiere receta", "Uso bajo control médico" ],
+        "efectosSecundarios": [ "Hipoglucemia" ],
+        "interacciones": [ "Alcohol", "Antidiabéticos" ],
+        "requiereReceta": true,
+        "marcas": [ "Lantus", "Basaglar", "Toujeo" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Insulina Glargina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Insulina+glargina+randomized"
+            }
+        ]
+
+    },
+    {
+        "id": "glibenclamida",
+        "nombre": "Glibenclamida",
+        "principioActivo": "Glibenclamida",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 2" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Riesgo de hipoglucemia" ],
+        "efectosSecundarios": [ "Hipoglucemia", "Mareos" ],
+        "interacciones": [ "Alcohol", "Insulina" ],
+        "requiereReceta": true,
+        "marcas": [ "Daonil", "Glibenclamida Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Glibenclamida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=glibenclamida+randomized"
+            }
+        ]
+    },
+    {
+        "id": "budesonida-formoterol",
+        "nombre": "Budesonida + Formoterol",
+        "principioActivo": "Budesonida + Formoterol",
+        "categoria": "Rx",
+        "indicaciones": [ "Asma", "EPOC" ],
+        "presentaciones": [
+            {
+                "forma": "Inhalador",
+                "dosis": "160/4.5 mcg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Uso prolongado bajo control médico" ],
+        "efectosSecundarios": [ "Candidiasis oral", "Temblor" ],
+        "interacciones": [ "Beta-bloqueadores" ],
+        "requiereReceta": true,
+        "marcas": [ "Symbicort", "Pulmicort", "Foradil" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Budesonida + Formoterol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=budesonida+formoterol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "cetirizina",
+        "nombre": "Cetirizina",
+        "principioActivo": "Cetirizina",
+        "categoria": "OTC",
+        "indicaciones": [ "Alergias", "Rinitis alérgica", "Urticaria" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Consultar en embarazo" ],
+        "efectosSecundarios": [ "Somnolencia", "Mareos" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Zyrtec", "Cetzine", "Cetirizina Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Cetirizina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=cetirizina+randomized"
+            }
+        ]
+    },
+    {
+        "id": "fexofenadina",
+        "nombre": "Fexofenadina",
+        "principioActivo": "Fexofenadina",
+        "categoria": "OTC",
+        "indicaciones": [ "Alergias", "Rinitis estacional" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "120 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Consultar en embarazo" ],
+        "efectosSecundarios": [ "Dolor de cabeza", "Mareos" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Allegra", "Telfast", "Fexofenadina Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Fexofenadina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=fexofenadina+randomized"
+            }
+        ]
+    },
+    {
+        "id": "aspirina",
+        "nombre": "Aspirina",
+        "principioActivo": "Ácido acetilsalicílico",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Dolor leve a moderado", "Fiebre", "Prevención cardiovascular (bajo supervisión médica)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "300–500 mg",
+                "notas": "Analgésico/antipirético"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "100 mg",
+                "notas": "Cardioprotección"
+            }
+        ],
+        "advertencias": [ "Evitar en menores de 12 años (riesgo de síndrome de Reye)", "No usar en úlcera gástrica activa" ],
+        "efectosSecundarios": [ "Gastritis", "Náusea", "Sangrado" ],
+        "interacciones": [ "Anticoagulantes", "Otros AINEs" ],
+        "requiereReceta": false,
+        "marcas": [ "Aspirina", "CardioAspirina", "Adiro" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Aspirina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=aspirin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ambroxol",
+        "nombre": "Ambroxol",
+        "principioActivo": "Ambroxol hidrocloruro",
+        "categoria": "OTC",
+        "indicaciones": [ "Tos productiva", "Mucolítico" ],
+        "presentaciones": [
+            {
+                "forma": "Jarabe",
+                "dosis": "15 mg/5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "30 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Consultar en embarazo y lactancia", "No exceder dosis recomendada" ],
+        "efectosSecundarios": [ "Náusea", "Molestias GI", "Reacciones alérgicas leves" ],
+        "interacciones": [ "Antitusivos" ],
+        "requiereReceta": false,
+        "marcas": [ "Mucosolvan", "Lysomucil", "Ambroxol Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ambroxol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ambroxol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "captopril",
+        "nombre": "Captopril",
+        "principioActivo": "Captopril",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión arterial", "Insuficiencia cardíaca" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "25 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "50 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear función renal y potasio", "Puede causar hipotensión en primera dosis" ],
+        "efectosSecundarios": [ "Tos seca", "Mareos", "Hipotensión" ],
+        "interacciones": [ "Diuréticos", "Potasio", "AINEs" ],
+        "requiereReceta": true,
+        "marcas": [ "Capoten", "Caprilab", "Captopril Genérico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Captopril",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=captopril+randomized"
+            }
+        ]
+    },
+    {
+        "id": "amoxicilina-clavulanico",
+        "nombre": "Amoxicilina + Ácido clavulánico",
+        "principioActivo": "Amoxicilina / Ácido clavulánico",
+        "categoria": "Rx",
+        "indicaciones": [ "Otitis media", "Sinusitis bacteriana", "Infecciones dentales", "Infecciones respiratorias" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "875/125 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "400/57 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Requiere receta médica", "Completar tratamiento", "Puede causar diarrea" ],
+        "efectosSecundarios": [ "Diarrea", "Náusea", "Exantema" ],
+        "interacciones": [ "Anticoagulantes", "Alopurinol" ],
+        "requiereReceta": true,
+        "marcas": [ "Augmentin", "Amoclav", "Clamoxin" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amoxicilina/Ácido clavulánico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amoxicillin+clavulanate+randomized"
+            }
+        ]
+    },
+    {
+        "id": "trimetoprim-sulfametoxazol",
+        "nombre": "Trimetoprim + Sulfametoxazol",
+        "principioActivo": "Trimetoprim / Sulfametoxazol",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones urinarias", "Infecciones respiratorias", "Infecciones de piel" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "160/800 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "40/200 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "No usar en alergia a sulfas", "Evitar en embarazo avanzado" ],
+        "efectosSecundarios": [ "Erupción cutánea", "Molestias GI" ],
+        "interacciones": [ "Warfarina", "Fenitoína" ],
+        "requiereReceta": true,
+        "marcas": [ "Bactrim", "Septrim", "Trimetoprim/Sulfametoxazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Trimetoprim/Sulfametoxazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=trimethoprim+sulfamethoxazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "nitrofurantoina",
+        "nombre": "Nitrofurantoína",
+        "principioActivo": "Nitrofurantoína",
+        "categoria": "Rx",
+        "indicaciones": [ "Infección urinaria no complicada" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Usar solo en IVU bajas", "Contraindicado en insuficiencia renal severa" ],
+        "efectosSecundarios": [ "Náusea", "Orina color oscuro" ],
+        "interacciones": [ "Antiácidos con magnesio", "Probenecid" ],
+        "requiereReceta": true,
+        "marcas": [ "Macrobid", "Furadantin", "Nitrofurantoína GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Nitrofurantoína",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=nitrofurantoin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "doxiciclina",
+        "nombre": "Doxiciclina",
+        "principioActivo": "Doxiciclina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias", "Acné", "Infecciones de transmisión sexual", "Brucelosis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Evitar en embarazo y niños <8 años", "Fotosensibilidad" ],
+        "efectosSecundarios": [ "Molestias GI", "Fotosensibilidad" ],
+        "interacciones": [ "Antiácidos", "Hierro" ],
+        "requiereReceta": true,
+        "marcas": [ "Vibramicina", "Doxiciclina GI", "Doxylab" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Doxiciclina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=doxycycline+randomized"
+            }
+        ]
+    },
+    {
+        "id": "dicloxacilina",
+        "nombre": "Dicloxacilina",
+        "principioActivo": "Dicloxacilina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones de piel", "Celulitis", "Impetigo" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Completar esquema", "Usar bajo prescripción médica" ],
+        "efectosSecundarios": [ "Náusea", "Diarrea" ],
+        "interacciones": [ "Anticoagulantes", "Metotrexato" ],
+        "requiereReceta": true,
+        "marcas": [ "Dynapen", "Dicloxacilina GI", "Dicloxalab" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Dicloxacilina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dicloxacillin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "hidroclorotiazida",
+        "nombre": "Hidroclorotiazida",
+        "principioActivo": "Hidroclorotiazida",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión arterial", "Edema" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "25 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear electrolitos", "Evitar en insuficiencia renal severa" ],
+        "efectosSecundarios": [ "Hipopotasemia", "Mareos" ],
+        "interacciones": [ "Digoxina", "Litio", "Otros diuréticos" ],
+        "requiereReceta": true,
+        "marcas": [ "Esidrex", "Hidroclorotiazida GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Hidroclorotiazida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hydrochlorothiazide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "metoprolol",
+        "nombre": "Metoprolol",
+        "principioActivo": "Metoprolol tartrato/succinato",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión", "Angina de pecho", "Arritmias", "Insuficiencia cardíaca" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50 mg",
+                "notas": "Tartrato"
+            },
+            {
+                "forma": "Tabletas LP",
+                "dosis": "100 mg",
+                "notas": "Succcinato liberación prolongada"
+            }
+        ],
+        "advertencias": [ "Evitar suspensión brusca", "Precaución en asma y EPOC" ],
+        "efectosSecundarios": [ "Bradicardia", "Fatiga", "Mareos" ],
+        "interacciones": [ "Otros betabloqueadores", "Verapamilo", "Amiodarona" ],
+        "requiereReceta": true,
+        "marcas": [ "Lopressor", "Toprol XL", "Metoprolol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Metoprolol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=metoprolol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "carvedilol",
+        "nombre": "Carvedilol",
+        "principioActivo": "Carvedilol",
+        "categoria": "Rx",
+        "indicaciones": [ "Insuficiencia cardíaca", "Hipertensión", "Cardiopatía isquémica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "12.5 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "25 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear presión arterial y frecuencia cardiaca", "Precaución en asma" ],
+        "efectosSecundarios": [ "Hipotensión", "Mareos", "Bradicardia" ],
+        "interacciones": [ "Digoxina", "Verapamilo", "Amiodarona" ],
+        "requiereReceta": true,
+        "marcas": [ "Coreg", "Dilatrend", "Carvedilol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Carvedilol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=carvedilol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "valsartan",
+        "nombre": "Valsartán",
+        "principioActivo": "Valsartán",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión", "Insuficiencia cardíaca", "Post-infarto" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "80 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "160 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Contraindicado en embarazo", "Monitorear función renal y potasio" ],
+        "efectosSecundarios": [ "Mareos", "Hipotensión" ],
+        "interacciones": [ "Diuréticos ahorradores de potasio", "Litio", "AINEs" ],
+        "requiereReceta": true,
+        "marcas": [ "Diovan", "Valsartán GI", "Valtensa" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Valsartán",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=valsartan+randomized"
+            }
+        ]
+    },
+    {
+        "id": "telmisartan",
+        "nombre": "Telmisartán",
+        "principioActivo": "Telmisartán",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión arterial", "Prevención cardiovascular en riesgo alto" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "40 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "80 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear presión y función renal", "No usar en embarazo" ],
+        "efectosSecundarios": [ "Mareos", "Hipotensión", "Hiperpotasemia" ],
+        "interacciones": [ "AINEs", "Litio", "Diuréticos" ],
+        "requiereReceta": true,
+        "marcas": [ "Micardis", "Telmisartán GI", "Telvium" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Telmisartán",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=telmisartan+randomized"
+            }
+        ]
+    },
+    {
+        "id": "glimepirida",
+        "nombre": "Glimepirida",
+        "principioActivo": "Glimepirida",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 2 (en combinación con dieta y ejercicio)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "4 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Riesgo de hipoglucemia", "No usar en diabetes tipo 1", "Precaución en insuficiencia renal/hepática" ],
+        "efectosSecundarios": [ "Hipoglucemia", "Aumento de peso", "Mareos" ],
+        "interacciones": [ "Alcohol", "Otros hipoglucemiantes", "Betabloqueadores" ],
+        "requiereReceta": true,
+        "marcas": [ "Amaryl", "Glimepirida GI", "Glimex" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Glimepirida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=glimepiride+randomized"
+            }
+        ]
+    },
+    {
+        "id": "insulina-nph",
+        "nombre": "Insulina NPH",
+        "principioActivo": "Insulina isofánica (NPH)",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 1", "Diabetes tipo 2 insulinorrequirente" ],
+        "presentaciones": [
+            {
+                "forma": "Inyectable",
+                "dosis": "100 UI/mL",
+                "notas": "Adultos y niños"
+            }
+        ],
+        "advertencias": [ "Requiere receta y supervisión médica", "Riesgo de hipoglucemia", "Almacenar en refrigeración" ],
+        "efectosSecundarios": [ "Hipoglucemia", "Aumento de peso", "Lipodistrofia en el sitio de inyección" ],
+        "interacciones": [ "Alcohol", "Beta-bloqueadores", "Corticosteroides" ],
+        "requiereReceta": true,
+        "marcas": [ "Humulin N", "Insulatard", "Biosulina N" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Insulina NPH",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=insulin+NPH+randomized"
+            }
+        ]
+    },
+    {
+        "id": "insulina-regular",
+        "nombre": "Insulina Regular",
+        "principioActivo": "Insulina humana regular",
+        "categoria": "Rx",
+        "indicaciones": [ "Diabetes tipo 1", "Diabetes tipo 2 insulinorrequirente", "Emergencias hiperglucémicas" ],
+        "presentaciones": [
+            {
+                "forma": "Inyectable",
+                "dosis": "100 UI/mL",
+                "notas": "Adultos y niños"
+            }
+        ],
+        "advertencias": [ "Administrar 30 min antes de comidas", "Riesgo de hipoglucemia", "Requiere monitoreo frecuente de glucosa" ],
+        "efectosSecundarios": [ "Hipoglucemia", "Reacciones locales", "Aumento de peso" ],
+        "interacciones": [ "Alcohol", "Corticosteroides", "Beta-bloqueadores" ],
+        "requiereReceta": true,
+        "marcas": [ "Humulin R", "Actrapid", "Biosulina R" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Insulina Regular",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=regular+insulin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "loperamida",
+        "nombre": "Loperamida",
+        "principioActivo": "Loperamida",
+        "categoria": "OTC",
+        "indicaciones": [ "Diarrea aguda", "Síndrome de intestino irritable con diarrea" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "2 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Cápsulas",
+                "dosis": "2 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "No usar en diarrea infecciosa con fiebre", "Evitar en niños <6 años" ],
+        "efectosSecundarios": [ "Estreñimiento", "Dolor abdominal", "Náusea" ],
+        "interacciones": [ "Otros antidiarreicos", "Quinidina" ],
+        "requiereReceta": false,
+        "marcas": [ "Imodium", "Lopedium", "Loperamida GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Loperamida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=loperamide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "metoclopramida",
+        "nombre": "Metoclopramida",
+        "principioActivo": "Metoclopramida",
+        "categoria": "Rx",
+        "indicaciones": [ "Náusea", "Vómito", "Gastroparesia" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "10 mg/2 mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Riesgo de efectos extrapiramidales", "No usar en uso prolongado" ],
+        "efectosSecundarios": [ "Somnolencia", "Distonía", "Diarrea" ],
+        "interacciones": [ "Antipsicóticos", "Levodopa" ],
+        "requiereReceta": true,
+        "marcas": [ "Plasil", "Primperan", "Metoclopramida GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Metoclopramida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=metoclopramide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "hioscina",
+        "nombre": "Hioscina butilbromuro",
+        "principioActivo": "Escopolamina butilbromuro",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Cólicos abdominales", "Síndrome de intestino irritable" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "20 mg/mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Precaución en glaucoma", "Evitar en obstrucción intestinal" ],
+        "efectosSecundarios": [ "Sequedad de boca", "Visión borrosa", "Estreñimiento" ],
+        "interacciones": [ "Otros anticolinérgicos" ],
+        "requiereReceta": false,
+        "marcas": [ "Buscapina", "Buscapina Compositum", "Hioscina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Hioscina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hyoscine+butylbromide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "sucralfato",
+        "nombre": "Sucralfato",
+        "principioActivo": "Sucralfato",
+        "categoria": "Rx",
+        "indicaciones": [ "Úlcera gástrica", "Úlcera duodenal", "Esofagitis" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión",
+                "dosis": "1 g/10 mL",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "1 g",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Tomar en ayunas", "Puede interferir con absorción de otros medicamentos" ],
+        "efectosSecundarios": [ "Estreñimiento", "Sequedad de boca" ],
+        "interacciones": [ "Quinolonas", "Digoxina", "Fenitoína" ],
+        "requiereReceta": true,
+        "marcas": [ "Sucrafilm", "Ulcogant", "Sucralfato GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Sucralfato",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sucralfate+randomized"
+            }
+        ]
+    },
+    {
+        "id": "esomeprazol",
+        "nombre": "Esomeprazol",
+        "principioActivo": "Esomeprazol magnésico",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Reflujo gastroesofágico", "Úlcera péptica", "Prevención de sangrado por AINEs" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "20 mg",
+                "notas": "OTC"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "40 mg",
+                "notas": "Rx adultos"
+            }
+        ],
+        "advertencias": [ "Uso prolongado bajo supervisión médica", "Puede enmascarar síntomas de cáncer gástrico" ],
+        "efectosSecundarios": [ "Dolor abdominal", "Cefalea", "Diarrea" ],
+        "interacciones": [ "Clopidogrel", "Warfarina" ],
+        "requiereReceta": false,
+        "marcas": [ "Nexium", "Esofar", "Esomeprazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Esomeprazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=esomeprazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "montelukast",
+        "nombre": "Montelukast",
+        "principioActivo": "Montelukast sódico",
+        "categoria": "Rx",
+        "indicaciones": [ "Asma persistente", "Rinitis alérgica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas masticables",
+                "dosis": "4 mg",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "No es para crisis agudas de asma", "Posibles efectos neuropsiquiátricos" ],
+        "efectosSecundarios": [ "Dolor de cabeza", "Insomnio", "Dolor abdominal" ],
+        "interacciones": [ "Fenitoína", "Rifampicina" ],
+        "requiereReceta": true,
+        "marcas": [ "Singulair", "Montelukast GI", "Lukasm" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Montelukast",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=montelukast+randomized"
+            }
+        ]
+    },
+    {
+        "id": "mometasona",
+        "nombre": "Mometasona",
+        "principioActivo": "Mometasona furoato",
+        "categoria": "Rx / OTC",
+        "indicaciones": [ "Rinitis alérgica", "Pólipos nasales" ],
+        "presentaciones": [
+            {
+                "forma": "Spray nasal",
+                "dosis": "50 mcg/dosis",
+                "notas": "Adultos y niños > 2 años"
+            }
+        ],
+        "advertencias": [ "Uso prolongado bajo control médico", "No exceder dosis recomendada" ],
+        "efectosSecundarios": [ "Irritación nasal", "Epistaxis", "Dolor de cabeza" ],
+        "interacciones": [ "Otros corticosteroides nasales" ],
+        "requiereReceta": false,
+        "marcas": [ "Nasonex", "Mometasona GI", "Rinelon" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Mometasona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=mometasone+nasal+randomized"
+            }
+        ]
+    },
+    {
+        "id": "fluticasona",
+        "nombre": "Fluticasona",
+        "principioActivo": "Fluticasona propionato/furoato",
+        "categoria": "Rx / OTC",
+        "indicaciones": [ "Rinitis alérgica", "Asma", "EPOC" ],
+        "presentaciones": [
+            {
+                "forma": "Spray nasal",
+                "dosis": "50 mcg/dosis",
+                "notas": "Rinitis alérgica"
+            },
+            {
+                "forma": "Inhalador",
+                "dosis": "125 mcg/puff",
+                "notas": "Asma/EPOC"
+            }
+        ],
+        "advertencias": [ "Uso prolongado bajo control médico", "No suspender abruptamente" ],
+        "efectosSecundarios": [ "Candidiasis oral", "Irritación nasal", "Ronquera" ],
+        "interacciones": [ "Inhibidores CYP3A4 (ketoconazol, ritonavir)" ],
+        "requiereReceta": true,
+        "marcas": [ "Flonase", "Flixotide", "Fluticasona GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Fluticasona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=fluticasone+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ipratropio",
+        "nombre": "Ipratropio",
+        "principioActivo": "Bromuro de ipratropio",
+        "categoria": "Rx",
+        "indicaciones": [ "Asma", "EPOC", "Rinitis" ],
+        "presentaciones": [
+            {
+                "forma": "Inhalador",
+                "dosis": "20 mcg/puff",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Solución nebulizable",
+                "dosis": "250 mcg/mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "No usar como monoterapia en asma aguda", "Precaución en glaucoma" ],
+        "efectosSecundarios": [ "Sequedad de boca", "Tos", "Mareos" ],
+        "interacciones": [ "Otros anticolinérgicos" ],
+        "requiereReceta": true,
+        "marcas": [ "Atrovent", "Ipratropio GI", "Airet" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ipratropio",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ipratropium+randomized"
+            }
+        ]
+    },
+    {
+        "id": "dipirona",
+        "nombre": "Dipirona (Metamizol)",
+        "principioActivo": "Metamizol sódico",
+        "categoria": "Rx / OTC",
+        "indicaciones": [ "Dolor agudo", "Fiebre", "Cólico abdominal" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "1 g/2 mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Riesgo de agranulocitosis (raro)", "Uso limitado en algunos países" ],
+        "efectosSecundarios": [ "Reacciones alérgicas", "Hipotensión", "Mareos" ],
+        "interacciones": [ "Alcohol", "Otros analgésicos" ],
+        "requiereReceta": false,
+        "marcas": [ "Neo-Melubrina", "Dipirona GI", "Novalgina" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Dipirona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=metamizole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "dextrometorfano",
+        "nombre": "Dextrometorfano",
+        "principioActivo": "Dextrometorfano hidrobromuro",
+        "categoria": "OTC",
+        "indicaciones": [ "Tos seca no productiva" ],
+        "presentaciones": [
+            {
+                "forma": "Jarabe",
+                "dosis": "15 mg/5 mL",
+                "notas": "Adultos y niños > 6 años"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "30 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "No usar en tos productiva crónica", "Evitar combinar con alcohol" ],
+        "efectosSecundarios": [ "Somnolencia", "Mareos", "Náusea" ],
+        "interacciones": [ "ISRS", "IMAO", "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Dextrometorfano GI", "Tukol D", "Vicks 44" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Dextrometorfano",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dextromethorphan+randomized"
+            }
+        ]
+    },
+    {
+        "id": "fenazopiridina",
+        "nombre": "Fenazopiridina",
+        "principioActivo": "Fenazopiridina",
+        "categoria": "OTC",
+        "indicaciones": [ "Alivio del dolor urinario", "Disuria", "IVU no complicada (coadyuvante)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100–200 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "No usar más de 2 días sin supervisión", "Puede teñir la orina de rojo/naranja" ],
+        "efectosSecundarios": [ "Molestias GI", "Coloración de orina", "Dolor de cabeza" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Pyridium", "Fenazopiridina GI", "Urogesic" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Fenazopiridina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=phenazopyridine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "fluconazol",
+        "nombre": "Fluconazol",
+        "principioActivo": "Fluconazol",
+        "categoria": "Rx / OTC",
+        "indicaciones": [ "Candidiasis vaginal", "Candidiasis oral", "Infecciones fúngicas sistémicas (Rx)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "150 mg",
+                "notas": "Dosis única (candidiasis vaginal)"
+            },
+            {
+                "forma": "Cápsulas",
+                "dosis": "50 mg",
+                "notas": "Tratamiento prolongado"
+            }
+        ],
+        "advertencias": [ "Evitar en embarazo", "Control hepático en uso prolongado" ],
+        "efectosSecundarios": [ "Molestias GI", "Elevación de enzimas hepáticas", "Erupción cutánea" ],
+        "interacciones": [ "Warfarina", "Fenitoína", "Rifampicina" ],
+        "requiereReceta": true,
+        "marcas": [ "Diflucan", "Fluconazol GI", "Fungistat" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Fluconazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=fluconazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "clotrimazol",
+        "nombre": "Clotrimazol",
+        "principioActivo": "Clotrimazol",
+        "categoria": "OTC",
+        "indicaciones": [ "Tiña", "Candidiasis cutánea", "Infecciones micóticas tópicas" ],
+        "presentaciones": [
+            {
+                "forma": "Crema tópica",
+                "dosis": "1%",
+                "notas": "Adultos y niños"
+            },
+            {
+                "forma": "Óvulos vaginales",
+                "dosis": "100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Uso externo únicamente", "Evitar contacto con ojos" ],
+        "efectosSecundarios": [ "Irritación local", "Enrojecimiento", "Prurito" ],
+        "interacciones": [ "Otros antifúngicos tópicos" ],
+        "requiereReceta": false,
+        "marcas": [ "Canesten", "Clotrimazol GI", "Lotrimin" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Clotrimazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=clotrimazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "acido-folico",
+        "nombre": "Ácido Fólico",
+        "principioActivo": "Ácido fólico (vitamina B9)",
+        "categoria": "OTC",
+        "indicaciones": [ "Embarazo", "Deficiencia de folatos", "Prevención de defectos del tubo neural" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg",
+                "notas": "Prevención en embarazo"
+            }
+        ],
+        "advertencias": [ "No exceder dosis recomendada", "Consultar en anemia no diagnosticada" ],
+        "efectosSecundarios": [ "Náusea", "Insomnio", "Flatulencia" ],
+        "interacciones": [ "Metotrexato", "Anticonvulsivos" ],
+        "requiereReceta": false,
+        "marcas": [ "Acfol", "Folacin", "Ácido Fólico GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ácido Fólico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=folic+acid+pregnancy+randomized"
+            }
+        ]
+    },
+    {
+        "id": "sulfato-ferroso",
+        "nombre": "Sulfato Ferroso",
+        "principioActivo": "Hierro (sulfato ferroso)",
+        "categoria": "OTC",
+        "indicaciones": [ "Anemia ferropénica", "Prevención en embarazo y lactancia" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "325 mg (65 mg de hierro elemental)",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "125 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Puede causar estreñimiento", "No tomar junto a lácteos o café" ],
+        "efectosSecundarios": [ "Molestias GI", "Coloración oscura de heces" ],
+        "interacciones": [ "Antiácidos", "Tetraciclinas" ],
+        "requiereReceta": false,
+        "marcas": [ "Fer-In-Sol", "Hemobion", "Sulfato Ferroso GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Suplementos de Hierro",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ferrous+sulfate+randomized"
+            }
+        ]
+    },
+    {
+        "id": "vitamina-d",
+        "nombre": "Vitamina D",
+        "principioActivo": "Colecalciferol (Vitamina D3)",
+        "categoria": "OTC",
+        "indicaciones": [ "Deficiencia de vitamina D", "Prevención de osteoporosis" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "800–2000 UI",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Gotas",
+                "dosis": "400 UI/mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "No exceder dosis, riesgo de hipercalcemia" ],
+        "efectosSecundarios": [ "Náusea", "Dolor abdominal", "Hipercalcemia" ],
+        "interacciones": [ "Diuréticos tiazídicos", "Digoxina" ],
+        "requiereReceta": false,
+        "marcas": [ "Devaron", "Vitamina D GI", "D-Vit" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Vitamina D",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=vitamin+D+randomized"
+            }
+        ]
+    },
+    {
+        "id": "complejo-b",
+        "nombre": "Complejo B",
+        "principioActivo": "Vitaminas B1, B6 y B12",
+        "categoria": "OTC",
+        "indicaciones": [ "Neuralgias", "Deficiencia de vitaminas del grupo B", "Estrés" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "Variable",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "B1 100 mg, B6 100 mg, B12 1 mg",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "No usar dosis elevadas sin control médico" ],
+        "efectosSecundarios": [ "Náusea", "Urticaria", "Cefalea" ],
+        "interacciones": [ "Alcohol", "Isoniazida" ],
+        "requiereReceta": false,
+        "marcas": [ "Bedoyecta", "Neurobion", "Complejo B GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Complejo B",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=vitamin+B+complex+randomized"
+            }
+        ]
+    },
+    {
+        "id": "vitamina-c",
+        "nombre": "Vitamina C",
+        "principioActivo": "Ácido ascórbico",
+        "categoria": "OTC",
+        "indicaciones": [ "Deficiencia de vitamina C", "Refuerzo del sistema inmune" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500–1000 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "100 mg/5 mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Altas dosis pueden causar diarrea", "Precaución en cálculos renales" ],
+        "efectosSecundarios": [ "Molestias GI", "Acidez" ],
+        "interacciones": [ "Anticoagulantes", "Anticonceptivos orales" ],
+        "requiereReceta": false,
+        "marcas": [ "Redoxon", "Cevit", "Vitamina C GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Vitamina C",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=vitamin+C+randomized"
+            }
+        ]
+    },
+    {
+        "id": "amoxicilina-clavulanato",
+        "nombre": "Amoxicilina + Clavulanato",
+        "principioActivo": "Amoxicilina / Ácido clavulánico",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias", "Otitis media", "Infecciones urinarias" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión",
+                "dosis": "400 mg/57 mg por 5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "875/125 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Requiere completar tratamiento antibiótico", "Puede causar diarrea" ],
+        "efectosSecundarios": [ "Diarrea", "Erupción cutánea", "Molestias GI" ],
+        "interacciones": [ "Anticoagulantes", "Alopurinol" ],
+        "requiereReceta": true,
+        "marcas": [ "Augmentin", "Amoclav", "Amoxiclav" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amoxicilina + Clavulanato",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amoxicillin+clavulanate+randomized"
+            }
+        ]
+    },
+    {
+        "id": "paracetamol-pediatrico",
+        "nombre": "Paracetamol Pediátrico",
+        "principioActivo": "Paracetamol (Acetaminofén)",
+        "categoria": "OTC",
+        "indicaciones": [ "Fiebre", "Dolor leve a moderado" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión",
+                "dosis": "120 mg/5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Gotas",
+                "dosis": "100 mg/mL",
+                "notas": "Lactantes"
+            }
+        ],
+        "advertencias": [ "No exceder la dosis máxima", "Evitar combinación con otros productos que contengan paracetamol" ],
+        "efectosSecundarios": [ "Náusea", "Rash cutáneo", "Hepatotoxicidad en sobredosis" ],
+        "interacciones": [ "Anticoagulantes", "Alcohol" ],
+        "requiereReceta": false,
+        "marcas": [ "Tempra Pediátrico", "Tylenol Infantil", "Panadol Niños" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Paracetamol Pediátrico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=paracetamol+children+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ibuprofeno-pediatrico",
+        "nombre": "Ibuprofeno Pediátrico",
+        "principioActivo": "Ibuprofeno",
+        "categoria": "OTC",
+        "indicaciones": [ "Fiebre", "Dolor", "Inflamación" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión",
+                "dosis": "100 mg/5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Gotas",
+                "dosis": "40 mg/mL",
+                "notas": "Lactantes"
+            }
+        ],
+        "advertencias": [ "Dar con alimentos", "Evitar en niños con asma inducida por AINEs" ],
+        "efectosSecundarios": [ "Molestias GI", "Somnolencia", "Riesgo de sangrado" ],
+        "interacciones": [ "Anticoagulantes", "Otros AINEs" ],
+        "requiereReceta": false,
+        "marcas": [ "Motrin Infantil", "Advil Niños", "Algidol Pediátrico" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ibuprofeno Pediátrico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ibuprofen+children+randomized"
+            }
+        ]
+    },
+    {
+        "id": "albendazol",
+        "nombre": "Albendazol",
+        "principioActivo": "Albendazol",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Parasitosis intestinal", "Teniasis", "Giardiasis" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión",
+                "dosis": "200 mg/5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Tabletas masticables",
+                "dosis": "400 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "No usar en embarazo", "Completar tratamiento" ],
+        "efectosSecundarios": [ "Dolor abdominal", "Náusea", "Cefalea" ],
+        "interacciones": [ "Cimetidina", "Dexametasona" ],
+        "requiereReceta": false,
+        "marcas": [ "Zentel", "Eskazole", "Albendazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Albendazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=albendazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "salbutamol-pediatrico",
+        "nombre": "Salbutamol Pediátrico",
+        "principioActivo": "Salbutamol",
+        "categoria": "Rx",
+        "indicaciones": [ "Asma en niños", "Broncoespasmo" ],
+        "presentaciones": [
+            {
+                "forma": "Jarabe",
+                "dosis": "2 mg/5 mL",
+                "notas": "Niños"
+            },
+            {
+                "forma": "Inhalador",
+                "dosis": "100 mcg/puff",
+                "notas": "Uso pediátrico con espaciador"
+            }
+        ],
+        "advertencias": [ "Usar bajo supervisión médica", "No exceder dosis máxima" ],
+        "efectosSecundarios": [ "Temblor", "Taquicardia", "Irritabilidad" ],
+        "interacciones": [ "Beta-bloqueadores", "Otros broncodilatadores" ],
+        "requiereReceta": true,
+        "marcas": [ "Ventolin Infantil", "Aerolin Pediátrico", "Salbutamol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Salbutamol Pediátrico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=salbutamol+children+randomized"
+            }
+        ]
+    },
+    {
+        "id": "etinilestradiol-levonorgestrel",
+        "nombre": "Etinilestradiol + Levonorgestrel",
+        "principioActivo": "Etinilestradiol / Levonorgestrel",
+        "categoria": "Rx",
+        "indicaciones": [ "Anticoncepción oral", "Regulación del ciclo menstrual" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.03 mg / 0.15 mg",
+                "notas": "Adultos, uso diario"
+            }
+        ],
+        "advertencias": [ "Contraindicado en fumadoras >35 años", "Riesgo de trombosis" ],
+        "efectosSecundarios": [ "Náusea", "Cefalea", "Aumento de peso" ],
+        "interacciones": [ "Antibióticos", "Anticonvulsivos" ],
+        "requiereReceta": true,
+        "marcas": [ "Microgynon", "Nordette", "Levora" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Anticonceptivos combinados",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ethinylestradiol+levonorgestrel+randomized"
+            }
+        ]
+    },
+    {
+        "id": "levonorgestrel",
+        "nombre": "Levonorgestrel (Píldora de emergencia)",
+        "principioActivo": "Levonorgestrel",
+        "categoria": "OTC",
+        "indicaciones": [ "Anticoncepción de emergencia postcoital" ],
+        "presentaciones": [
+            {
+                "forma": "Tableta",
+                "dosis": "1.5 mg",
+                "notas": "Dosis única"
+            }
+        ],
+        "advertencias": [ "No usar como anticonceptivo regular", "Menor eficacia con IMC elevado" ],
+        "efectosSecundarios": [ "Náusea", "Sangrado intermenstrual", "Dolor abdominal" ],
+        "interacciones": [ "Anticonvulsivos", "Rifampicina" ],
+        "requiereReceta": false,
+        "marcas": [ "Postinor", "Glani", "Plan B" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Levonorgestrel",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=levonorgestrel+emergency+contraception"
+            }
+        ]
+    },
+    {
+        "id": "acido-folico-prenatal",
+        "nombre": "Ácido Fólico Prenatal",
+        "principioActivo": "Ácido fólico (vitamina B9)",
+        "categoria": "OTC",
+        "indicaciones": [ "Prevención de defectos del tubo neural", "Suplemento en embarazo y lactancia" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg",
+                "notas": "Uso prenatal"
+            }
+        ],
+        "advertencias": [ "No exceder dosis recomendada", "No sustituye una dieta equilibrada" ],
+        "efectosSecundarios": [ "Flatulencia", "Náusea" ],
+        "interacciones": [ "Metotrexato", "Fenitoína" ],
+        "requiereReceta": false,
+        "marcas": [ "Folvite", "Acfol Prenatal", "Ácido Fólico GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ácido Fólico y embarazo",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=folic+acid+pregnancy"
+            }
+        ]
+    },
+    {
+        "id": "hierro-prenatal",
+        "nombre": "Hierro Prenatal",
+        "principioActivo": "Sulfato ferroso / fumarato ferroso",
+        "categoria": "OTC",
+        "indicaciones": [ "Anemia en embarazo", "Prevención de deficiencia de hierro" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "300–325 mg",
+                "notas": "Adultos, embarazo"
+            }
+        ],
+        "advertencias": [ "Puede causar estreñimiento", "No tomar junto a café o lácteos" ],
+        "efectosSecundarios": [ "Molestias GI", "Heces oscuras" ],
+        "interacciones": [ "Antiácidos", "Tetraciclinas" ],
+        "requiereReceta": false,
+        "marcas": [ "Hemobion Prenatal", "Fer-In-Sol", "Hierro GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Hierro en embarazo",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=iron+pregnancy+randomized"
+            }
+        ]
+    },
+    {
+        "id": "clotrimazol-ovulos",
+        "nombre": "Clotrimazol Óvulos",
+        "principioActivo": "Clotrimazol",
+        "categoria": "OTC",
+        "indicaciones": [ "Candidiasis vaginal" ],
+        "presentaciones": [
+            {
+                "forma": "Óvulos vaginales",
+                "dosis": "100 mg",
+                "notas": "Tratamiento 6 días"
+            },
+            {
+                "forma": "Óvulos vaginales",
+                "dosis": "500 mg",
+                "notas": "Dosis única"
+            }
+        ],
+        "advertencias": [ "Uso vaginal exclusivamente", "Consultar si síntomas persisten" ],
+        "efectosSecundarios": [ "Ardor local", "Prurito", "Irritación vaginal" ],
+        "interacciones": [ "Otros antifúngicos vaginales" ],
+        "requiereReceta": false,
+        "marcas": [ "Canesten V", "Clotrimazol GI", "Lomexin" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Clotrimazol vaginal",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=clotrimazole+vaginal+randomized"
+            }
+        ]
+    },
+    {
+        "id": "sertralina",
+        "nombre": "Sertralina",
+        "principioActivo": "Sertralina",
+        "categoria": "Rx",
+        "indicaciones": [ "Depresión", "Ansiedad", "Trastorno obsesivo-compulsivo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50–100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Puede tardar varias semanas en mostrar efecto", "No suspender bruscamente" ],
+        "efectosSecundarios": [ "Náusea", "Insomnio", "Disfunción sexual" ],
+        "interacciones": [ "Inhibidores de la MAO", "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Zoloft", "Sertralina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Sertralina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sertraline+randomized"
+            }
+        ]
+    },
+    {
+        "id": "risperidona",
+        "nombre": "Risperidona",
+        "principioActivo": "Risperidona",
+        "categoria": "Rx",
+        "indicaciones": [ "Esquizofrenia", "Trastorno bipolar", "Trastornos de conducta" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1–4 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear peso y glucosa", "Riesgo de síndrome extrapiramidal" ],
+        "efectosSecundarios": [ "Somnolencia", "Aumento de peso", "Rigidez muscular" ],
+        "interacciones": [ "Otros antipsicóticos", "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Risperdal", "Risperidona GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Risperidona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=risperidone+randomized"
+            }
+        ]
+    },
+    {
+        "id": "quetiapina",
+        "nombre": "Quetiapina",
+        "principioActivo": "Quetiapina fumarato",
+        "categoria": "Rx",
+        "indicaciones": [ "Esquizofrenia", "Trastorno bipolar", "Depresión resistente" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100–300 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Somnolencia frecuente", "Monitoreo de lípidos y glucosa" ],
+        "efectosSecundarios": [ "Aumento de peso", "Somnolencia", "Mareos" ],
+        "interacciones": [ "Alcohol", "Otros depresores del SNC" ],
+        "requiereReceta": true,
+        "marcas": [ "Seroquel", "Quetiapina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Quetiapina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=quetiapine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "acido-valproico",
+        "nombre": "Ácido Valproico",
+        "principioActivo": "Ácido Valproico",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia", "Trastorno bipolar", "Migraña (profilaxis)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "250–500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "250 mg/5 mL",
+                "notas": "Pediátrico"
+            }
+        ],
+        "advertencias": [ "Riesgo de hepatotoxicidad", "No usar en embarazo" ],
+        "efectosSecundarios": [ "Aumento de peso", "Temblores", "Caída de cabello" ],
+        "interacciones": [ "Otros anticonvulsivos", "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Depakene", "Valpakine", "Ácido Valproico GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ácido Valproico",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=valproic+acid+randomized"
+            }
+        ]
+    },
+    {
+        "id": "carbamazepina",
+        "nombre": "Carbamazepina",
+        "principioActivo": "Carbamazepina",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia", "Neuralgia del trigémino", "Trastorno bipolar" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "200 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Monitorear función hepática y hematológica", "Evitar alcohol" ],
+        "efectosSecundarios": [ "Mareos", "Somnolencia", "Visión borrosa" ],
+        "interacciones": [ "Warfarina", "Anticonceptivos orales" ],
+        "requiereReceta": true,
+        "marcas": [ "Tegretol", "Carbamazepina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Carbamazepina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=carbamazepine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "levetiracetam",
+        "nombre": "Levetiracetam",
+        "principioActivo": "Levetiracetam",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia parcial", "Epilepsia generalizada" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500–1000 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Posibles cambios de ánimo", "No suspender bruscamente" ],
+        "efectosSecundarios": [ "Somnolencia", "Mareos", "Irritabilidad" ],
+        "interacciones": [ "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Keppra", "Levetiracetam GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Levetiracetam",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=levetiracetam+randomized"
+            }
+        ]
+    },
+    {
+        "id": "lamotrigina",
+        "nombre": "Lamotrigina",
+        "principioActivo": "Lamotrigina",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia", "Trastorno bipolar" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "25–100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Riesgo de erupción cutánea grave (Stevens-Johnson)", "Aumentar dosis lentamente" ],
+        "efectosSecundarios": [ "Mareos", "Somnolencia", "Erupciones" ],
+        "interacciones": [ "Ácido valproico", "Carbamazepina" ],
+        "requiereReceta": true,
+        "marcas": [ "Lamictal", "Lamotrigina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Lamotrigina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=lamotrigine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "topiramato",
+        "nombre": "Topiramato",
+        "principioActivo": "Topiramato",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia", "Migraña (profilaxis)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "25–100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Puede causar pérdida de peso", "Mantener hidratación adecuada" ],
+        "efectosSecundarios": [ "Parestesias", "Confusión", "Somnolencia" ],
+        "interacciones": [ "Anticonceptivos orales", "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Topamax", "Topiramato GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Topiramato",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=topiramate+randomized"
+            }
+        ]
+    },
+    {
+        "id": "tramadol",
+        "nombre": "Tramadol",
+        "principioActivo": "Tramadol",
+        "categoria": "Rx (controlado)",
+        "indicaciones": [ "Dolor moderado a severo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50–100 mg",
+                "notas": "Cada 6–8h"
+            },
+            {
+                "forma": "Solución oral",
+                "dosis": "100 mg/5 mL",
+                "notas": "Adultos y pediátrico según indicación médica"
+            }
+        ],
+        "advertencias": [ "Riesgo de dependencia", "Evitar con alcohol y depresores del SNC" ],
+        "efectosSecundarios": [ "Náusea", "Mareos", "Somnolencia", "Estreñimiento" ],
+        "interacciones": [ "Antidepresivos ISRS/IRSN", "Alcohol", "Otros opioides" ],
+        "requiereReceta": true,
+        "marcas": [ "Tramal", "Tramacet", "Tramadol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Tramadol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tramadol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "morfina",
+        "nombre": "Morfina",
+        "principioActivo": "Morfina",
+        "categoria": "Rx (controlado)",
+        "indicaciones": [ "Dolor severo", "Dolor oncológico", "Cuidado paliativo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10–30 mg",
+                "notas": "Liberación inmediata"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "10 mg/mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Alto riesgo de dependencia", "Monitorizar depresión respiratoria" ],
+        "efectosSecundarios": [ "Estreñimiento", "Somnolencia", "Náusea", "Depresión respiratoria" ],
+        "interacciones": [ "Alcohol", "Benzodiacepinas", "Otros opioides" ],
+        "requiereReceta": true,
+        "marcas": [ "Morfina Sulfato GI", "MS Contin" ],
+        "comprarEn": [
+            { "tienda": "Hospitales" },
+            { "tienda": "Farmacias con control especial" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Morfina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=morphine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "oxicodona",
+        "nombre": "Oxicodona",
+        "principioActivo": "Oxicodona",
+        "categoria": "Rx (controlado)",
+        "indicaciones": [ "Dolor moderado a severo", "Dolor crónico" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5–20 mg",
+                "notas": "Liberación inmediata y prolongada"
+            }
+        ],
+        "advertencias": [ "Riesgo elevado de adicción", "Uso restringido en México" ],
+        "efectosSecundarios": [ "Somnolencia", "Estreñimiento", "Náusea", "Depresión respiratoria" ],
+        "interacciones": [ "Alcohol", "Ansiolíticos", "Otros opioides" ],
+        "requiereReceta": true,
+        "marcas": [ "OxyContin", "Oxicodona GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias con control especial" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Oxicodona",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=oxycodone+randomized"
+            }
+        ]
+    },
+    {
+        "id": "codeina",
+        "nombre": "Codeína",
+        "principioActivo": "Codeína",
+        "categoria": "Rx (controlado, a veces combinaciones OTC)",
+        "indicaciones": [ "Dolor leve a moderado", "Tos seca" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "30–60 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "10 mg/5 mL",
+                "notas": "Antitusivo"
+            }
+        ],
+        "advertencias": [ "Riesgo de dependencia", "Evitar en niños menores de 12 años" ],
+        "efectosSecundarios": [ "Somnolencia", "Estreñimiento", "Náusea" ],
+        "interacciones": [ "Alcohol", "Otros opioides" ],
+        "requiereReceta": true,
+        "marcas": [ "Tylex", "Codeisan", "Codeína GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Codeína",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=codeine+randomized"
+            }
+        ]
+    },  
+    {
+        "id": "fluoxetina",
+        "nombre": "Fluoxetina",
+        "principioActivo": "Fluoxetina",
+        "categoria": "Rx",
+        "indicaciones": [ "Depresión", "Ansiedad", "Bulimia nerviosa" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "20 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Efecto aparece tras 2–6 semanas", "No suspender abruptamente" ],
+        "efectosSecundarios": [ "Insomnio", "Nerviosismo", "Disfunción sexual" ],
+        "interacciones": [ "Otros antidepresivos", "Alcohol" ],
+        "requiereReceta": true,
+        "marcas": [ "Prozac", "Fluoxetina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Fluoxetina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=fluoxetine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "diazepam",
+        "nombre": "Diazepam",
+        "principioActivo": "Diazepam",
+        "categoria": "Rx (controlado)",
+        "indicaciones": [ "Ansiedad severa", "Espasmos musculares", "Convulsiones" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5–10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "10 mg/2 mL",
+                "notas": "Uso hospitalario"
+            }
+        ],
+        "advertencias": [ "Riesgo de dependencia", "Evitar alcohol" ],
+        "efectosSecundarios": [ "Somnolencia", "Mareos", "Debilidad muscular" ],
+        "interacciones": [ "Alcohol", "Otros depresores del SNC" ],
+        "requiereReceta": true,
+        "marcas": [ "Valium", "Diazepam GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Diazepam",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=diazepam+randomized"
+            }
+        ]
+    },
+    {
+        "id": "alprazolam",
+        "nombre": "Alprazolam",
+        "principioActivo": "Alprazolam",
+        "categoria": "Rx (controlado)",
+        "indicaciones": [ "Ansiedad", "Trastorno de pánico" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.25–1 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Riesgo alto de dependencia", "No suspender abruptamente" ],
+        "efectosSecundarios": [ "Somnolencia", "Mareos", "Dependencia" ],
+        "interacciones": [ "Alcohol", "Otros ansiolíticos" ],
+        "requiereReceta": true,
+        "marcas": [ "Tafil", "Xanax", "Alprazolam GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Alprazolam",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=alprazolam+randomized"
+            }
+        ]
+    },
+    {
+        "id": "clindamicina",
+        "nombre": "Clindamicina",
+        "principioActivo": "Clindamicina",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones dentales", "Infecciones de piel y tejidos blandos", "Infecciones respiratorias" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "300 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "75 mg/5 mL",
+                "notas": "Uso pediátrico"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "600 mg/4 mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Completar tratamiento", "Riesgo de colitis asociada a antibióticos" ],
+        "efectosSecundarios": [ "Diarrea", "Dolor abdominal", "Erupción cutánea" ],
+        "interacciones": [ "Bloqueadores neuromusculares" ],
+        "requiereReceta": true,
+        "marcas": [ "Dalacin C", "Clindamicina GI", "Clendix" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Clindamicina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=clindamycin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "levofloxacino",
+        "nombre": "Levofloxacino",
+        "principioActivo": "Levofloxacino",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias", "Infecciones urinarias complicadas", "Prostatitis bacteriana" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500–750 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Solución inyectable",
+                "dosis": "500 mg/100 mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Evitar en menores de 18 años", "Riesgo de tendinitis y ruptura de tendón" ],
+        "efectosSecundarios": [ "Náusea", "Mareos", "Fotosensibilidad" ],
+        "interacciones": [ "Antiácidos con magnesio/aluminio", "Warfarina" ],
+        "requiereReceta": true,
+        "marcas": [ "Tavanic", "Levox", "Levofloxacino GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Levofloxacino",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=levofloxacin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "moxifloxacino",
+        "nombre": "Moxifloxacino",
+        "principioActivo": "Moxifloxacino",
+        "categoria": "Rx",
+        "indicaciones": [ "Infecciones respiratorias graves", "Sinusitis bacteriana", "Neumonía adquirida en la comunidad" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "400 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Solución inyectable",
+                "dosis": "400 mg/250 mL",
+                "notas": "Hospitalario"
+            }
+        ],
+        "advertencias": [ "Riesgo de arritmias (QT prolongado)", "Evitar en embarazo y lactancia" ],
+        "efectosSecundarios": [ "Náusea", "Diarrea", "Mareos" ],
+        "interacciones": [ "Antiarrítmicos", "Antiácidos" ],
+        "requiereReceta": true,
+        "marcas": [ "Avelox", "Moxet", "Moxifloxacino GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Moxifloxacino",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=moxifloxacin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "amikacina",
+        "nombre": "Amikacina",
+        "principioActivo": "Amikacina",
+        "categoria": "Rx (hospitalario)",
+        "indicaciones": [ "Infecciones graves por Gram negativos", "Sepsis", "Infecciones urinarias complicadas" ],
+        "presentaciones": [
+            {
+                "forma": "Inyectable",
+                "dosis": "500 mg/2 mL",
+                "notas": "Uso hospitalario"
+            }
+        ],
+        "advertencias": [ "Riesgo de nefrotoxicidad", "Riesgo de ototoxicidad", "Uso solo bajo control hospitalario" ],
+        "efectosSecundarios": [ "Nefrotoxicidad", "Ototoxicidad", "Reacciones locales en sitio de inyección" ],
+        "interacciones": [ "Otros antibióticos nefrotóxicos", "Diuréticos de asa" ],
+        "requiereReceta": true,
+        "marcas": [ "Amikin", "Amikacina GI" ],
+        "comprarEn": [
+            { "tienda": "Hospitales" },
+            { "tienda": "Farmacias con control hospitalario" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amikacina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amikacin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "meropenem",
+        "nombre": "Meropenem",
+        "principioActivo": "Meropenem",
+        "categoria": "Rx (hospitalario)",
+        "indicaciones": [ "Infecciones intrahospitalarias graves", "Sepsis", "Meningitis bacteriana" ],
+        "presentaciones": [
+            {
+                "forma": "Polvo inyectable",
+                "dosis": "500 mg – 1 g",
+                "notas": "Reconstituido IV"
+            }
+        ],
+        "advertencias": [ "Uso exclusivo hospitalario", "Ajustar dosis en insuficiencia renal" ],
+        "efectosSecundarios": [ "Diarrea", "Náusea", "Convulsiones en sobredosis" ],
+        "interacciones": [ "Ácido valproico", "Anticoagulantes" ],
+        "requiereReceta": true,
+        "marcas": [ "Meronem", "Meropenem GI" ],
+        "comprarEn": [
+            { "tienda": "Hospitales" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Meropenem",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=meropenem+randomized"
+            }
+        ]
+    },
+    {
+        "id": "linezolid",
+        "nombre": "Linezolid",
+        "principioActivo": "Linezolid",
+        "categoria": "Rx (hospitalario)",
+        "indicaciones": [ "Infecciones por Gram positivos resistentes (MRSA, VRE)", "Neumonía nosocomial", "Infecciones de piel complicadas" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "600 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Solución inyectable",
+                "dosis": "600 mg/300 mL",
+                "notas": "Uso hospitalario"
+            }
+        ],
+        "advertencias": [ "Uso restringido en infecciones resistentes", "Monitorear hemograma si uso prolongado" ],
+        "efectosSecundarios": [ "Mielosupresión", "Náusea", "Neuropatía periférica (uso largo)" ],
+        "interacciones": [ "Antidepresivos ISRS/IRSN", "IMAO" ],
+        "requiereReceta": true,
+        "marcas": [ "Zyvox", "Linezolid GI" ],
+        "comprarEn": [
+            { "tienda": "Hospitales" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Linezolid",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=linezolid+randomized"
+            }
+        ]
+    },
+    {
+        "id": "itraconazol",
+        "nombre": "Itraconazol",
+        "principioActivo": "Itraconazol",
+        "categoria": "Rx",
+        "indicaciones": [ "Micosis sistémicas", "Onicomicosis", "Candidiasis orofaríngea" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "100 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Solución oral",
+                "dosis": "10 mg/mL",
+                "notas": "Uso especializado"
+            }
+        ],
+        "advertencias": [ "Evitar en insuficiencia hepática", "No combinar con ciertos antiarrítmicos" ],
+        "efectosSecundarios": [ "Náusea", "Dolor abdominal", "Alteración hepática" ],
+        "interacciones": [ "Estatinas", "Antiarrítmicos", "Omeprazol (disminuye absorción)" ],
+        "requiereReceta": true,
+        "marcas": [ "Sporanox", "Itraconazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Itraconazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=itraconazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ketoconazol",
+        "nombre": "Ketoconazol",
+        "principioActivo": "Ketoconazol",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Dermatomicosis", "Tiña", "Candidiasis cutánea", "Caspa severa" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "200 mg",
+                "notas": "Adultos (uso restringido por toxicidad hepática)"
+            },
+            {
+                "forma": "Crema",
+                "dosis": "2%",
+                "notas": "Uso tópico"
+            },
+            {
+                "forma": "Shampoo",
+                "dosis": "2%",
+                "notas": "Caspa y dermatitis seborreica"
+            }
+        ],
+        "advertencias": [ "El uso oral prolongado puede causar hepatotoxicidad", "Evitar alcohol durante el tratamiento" ],
+        "efectosSecundarios": [ "Náusea", "Prurito", "Elevación de enzimas hepáticas" ],
+        "interacciones": [ "Omeprazol", "Alcohol", "Anticoagulantes" ],
+        "requiereReceta": true,
+        "marcas": [ "Nizoral", "Ketoconazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ketoconazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ketoconazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "nistatina",
+        "nombre": "Nistatina",
+        "principioActivo": "Nistatina",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Candidiasis oral", "Candidiasis vaginal", "Infecciones cutáneas por hongos" ],
+        "presentaciones": [
+            {
+                "forma": "Suspensión oral",
+                "dosis": "100,000 UI/mL",
+                "notas": "Adultos y pediátrico"
+            },
+            {
+                "forma": "Tabletas vaginales",
+                "dosis": "100,000 UI",
+                "notas": "Uso ginecológico"
+            },
+            {
+                "forma": "Crema",
+                "dosis": "100,000 UI/g",
+                "notas": "Uso tópico"
+            }
+        ],
+        "advertencias": [ "Uso local principalmente", "No se absorbe por vía oral en el intestino" ],
+        "efectosSecundarios": [ "Irritación local", "Náusea leve" ],
+        "interacciones": [ "Ninguna significativa" ],
+        "requiereReceta": false,
+        "marcas": [ "Micostat", "Mycostatin", "Nistatina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Nistatina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=nystatin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "aciclovir",
+        "nombre": "Aciclovir",
+        "principioActivo": "Aciclovir",
+        "categoria": "Rx",
+        "indicaciones": [ "Herpes simple labial y genital", "Herpes zóster", "Varicela" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "200–400 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "200 mg/5 mL",
+                "notas": "Pediátrico"
+            },
+            {
+                "forma": "Crema tópica",
+                "dosis": "5%",
+                "notas": "Uso local"
+            }
+        ],
+        "advertencias": [ "Ajustar dosis en insuficiencia renal", "Mayor eficacia si se inicia en primeras 48 h" ],
+        "efectosSecundarios": [ "Náusea", "Cefalea", "Diarrea" ],
+        "interacciones": [ "Probenecid", "Otros nefrotóxicos" ],
+        "requiereReceta": true,
+        "marcas": [ "Zovirax", "Aciclovir GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Aciclovir",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=acyclovir+randomized"
+            }
+        ]
+    },
+    {
+        "id": "valaciclovir",
+        "nombre": "Valaciclovir",
+        "principioActivo": "Valaciclovir",
+        "categoria": "Rx",
+        "indicaciones": [ "Herpes simple recurrente", "Herpes zóster", "Profilaxis en inmunocomprometidos" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500–1000 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [ "Hidratación adecuada", "Ajustar en insuficiencia renal" ],
+        "efectosSecundarios": [ "Náusea", "Dolor abdominal", "Cefalea" ],
+        "interacciones": [ "Otros antivirales", "Nefrotóxicos" ],
+        "requiereReceta": true,
+        "marcas": [ "Valtrex", "Valaciclovir GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Farmacia San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Valaciclovir",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=valacyclovir+randomized"
+            }
+        ]
+    },
+    {
+        "id": "oseltamivir",
+        "nombre": "Oseltamivir",
+        "principioActivo": "Oseltamivir",
+        "categoria": "Rx",
+        "indicaciones": [ "Influenza A y B", "Profilaxis en brotes de influenza" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "75 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "12 mg/mL",
+                "notas": "Niños"
+            }
+        ],
+        "advertencias": [ "Administrar en primeras 48 h de síntomas", "Usar solo con confirmación o alta sospecha de influenza" ],
+        "efectosSecundarios": [ "Náusea", "Vómito", "Dolor abdominal" ],
+        "interacciones": [ "Ninguna relevante" ],
+        "requiereReceta": true,
+        "marcas": [ "Tamiflu", "Oseltamivir GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Oseltamivir",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=oseltamivir+randomized"
+            }
+        ]
+    },
+    {
+        "id": "metronidazol",
+        "nombre": "Metronidazol",
+        "principioActivo": "Metronidazol",
+        "categoria": "Rx",
+        "indicaciones": [ "Amebiasis", "Giardiasis", "Tricomoniasis", "Infecciones anaerobias", "Colitis pseudomembranosa" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "250–500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "125 mg/5 mL",
+                "notas": "Uso pediátrico"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "500 mg/100 mL",
+                "notas": "Uso hospitalario"
+            }
+        ],
+        "advertencias": [ "No consumir alcohol durante ni 48 h después del tratamiento", "Completar el esquema completo" ],
+        "efectosSecundarios": [ "Náusea", "Sabor metálico", "Diarrea", "Cefalea" ],
+        "interacciones": [ "Alcohol (efecto tipo disulfiram)", "Warfarina", "Fenitoína" ],
+        "requiereReceta": true,
+        "marcas": [ "Flagyl", "Metronidazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Metronidazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=metronidazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ivermectina",
+        "nombre": "Ivermectina",
+        "principioActivo": "Ivermectina",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Estrongiloidiasis", "Escabiosis (sarna)", "Pediculosis (piojos)", "Oncocercosis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "3–6 mg",
+                "notas": "Adultos, dosis según peso"
+            },
+            {
+                "forma": "Loción",
+                "dosis": "0.5%",
+                "notas": "Uso tópico en piojos"
+            }
+        ],
+        "advertencias": [ "Usar con precaución en niños <15 kg", "No usar como automedicación en infecciones virales" ],
+        "efectosSecundarios": [ "Mareos", "Náusea", "Erupción cutánea" ],
+        "interacciones": [ "Warfarina", "Otros antiparasitarios" ],
+        "requiereReceta": false,
+        "marcas": [ "Ivexterm", "Ivermectina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacia San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ivermectina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ivermectin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "mebendazol",
+        "nombre": "Mebendazol",
+        "principioActivo": "Mebendazol",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Lombrices intestinales (oxiuriasis, ascariasis, tricuriasis)", "Teniasis", "Poliparasitosis intestinal" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100 mg",
+                "notas": "Adultos y niños >2 años"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "100 mg/5 mL",
+                "notas": "Uso pediátrico"
+            }
+        ],
+        "advertencias": [ "Evitar en embarazo", "Completar el esquema antiparasitario", "Repetir dosis según el parásito" ],
+        "efectosSecundarios": [ "Dolor abdominal", "Diarrea", "Náusea" ],
+        "interacciones": [ "Carbamazepina", "Fenitoína" ],
+        "requiereReceta": false,
+        "marcas": [ "Lomper", "Mebendazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Mebendazol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=mebendazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "nitazoxanida",
+        "nombre": "Nitazoxanida",
+        "principioActivo": "Nitazoxanida",
+        "categoria": "Rx",
+        "indicaciones": [ "Giardiasis", "Amebiasis", "Helmintiasis mixta", "Cryptosporidiosis" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Suspensión",
+                "dosis": "100 mg/5 mL",
+                "notas": "Uso pediátrico"
+            }
+        ],
+        "advertencias": [ "No usar sin diagnóstico confirmado", "Consultar en embarazo y lactancia" ],
+        "efectosSecundarios": [ "Dolor abdominal", "Náusea", "Orina verdosa (benigna)" ],
+        "interacciones": [ "Warfarina", "Antivirales" ],
+        "requiereReceta": true,
+        "marcas": [ "Daxon", "Nitazoxanida GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Nitazoxanida",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=nitazoxanide+randomized"
+            }
+        ]
+    },
+    {
+        "id": "tolterodina",
+        "nombre": "Tolterodina",
+        "principioActivo": "Tolterodina tartrato",
+        "categoria": "Rx",
+        "indicaciones": [ "Vejiga hiperactiva", "Incontinencia urinaria de urgencia", "Frecuencia urinaria aumentada" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "2 mg",
+                "notas": "Adultos, dos veces al día"
+            },
+            {
+                "forma": "Tabletas de liberación prolongada",
+                "dosis": "4 mg",
+                "notas": "Adultos, una vez al día"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control médico.",
+            "Evitar en glaucoma de ángulo estrecho no controlado.",
+            "Precaución en insuficiencia hepática o renal.",
+            "Puede causar visión borrosa y somnolencia."
+        ],
+        "efectosSecundarios": [
+            "Boca seca",
+            "Estreñimiento",
+            "Visión borrosa",
+            "Somnolencia"
+        ],
+        "interacciones": [
+            "Antimicóticos azólicos (ej. ketoconazol)",
+            "Macrólidos (ej. claritromicina)",
+            "Otros fármacos antimuscarínicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Urotrol", "Detrusitol", "Tolterodina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Tolterodina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tolterodine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "tamsulosina",
+        "nombre": "Tamsulosina",
+        "principioActivo": "Tamsulosina clorhidrato",
+        "categoria": "Rx",
+        "indicaciones": [ "Hiperplasia prostática benigna (HPB)", "Síntomas urinarios obstructivos" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "0.4 mg",
+                "notas": "Adultos, una vez al día"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión médica.",
+            "Puede causar hipotensión postural.",
+            "Precaución en pacientes con insuficiencia hepática grave."
+        ],
+        "efectosSecundarios": [
+            "Mareos",
+            "Hipotensión",
+            "Ejaculación anormal",
+            "Cefalea"
+        ],
+        "interacciones": [
+            "Antihipertensivos",
+            "Inhibidores potentes de CYP3A4 (ej. ketoconazol)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Omnic", "Secotex", "Tamsulosina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Tamsulosina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tamsulosin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "finasteride",
+        "nombre": "Finasteride",
+        "principioActivo": "Finasteride",
+        "categoria": "Rx",
+        "indicaciones": [ "Hiperplasia prostática benigna (HPB)", "Alopecia androgenética (calvicie masculina)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg",
+                "notas": "Alopecia"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "5 mg",
+                "notas": "HPB"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta médica.",
+            "Contraindicado en mujeres embarazadas (riesgo de malformaciones fetales en varones).",
+            "Puede tardar varios meses en mostrar efecto clínico."
+        ],
+        "efectosSecundarios": [
+            "Disminución de la libido",
+            "Disfunción eréctil",
+            "Ginecomastia (raro)"
+        ],
+        "interacciones": [
+            "Ninguna significativa reportada clínicamente"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Proscar", "Propecia", "Finasteride GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Finasteride",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=finasteride+randomized"
+            }
+        ]
+    },
+    {
+        "id": "oxibutinina",
+        "nombre": "Oxibutinina",
+        "principioActivo": "Oxibutinina clorhidrato",
+        "categoria": "Rx",
+        "indicaciones": [ "Vejiga hiperactiva", "Incontinencia urinaria", "Urgencia urinaria" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5 mg",
+                "notas": "Adultos, 2–3 veces al día"
+            },
+            {
+                "forma": "Jarabe",
+                "dosis": "5 mg/5 mL",
+                "notas": "Uso pediátrico según indicación médica"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta médica.",
+            "Puede causar somnolencia y visión borrosa.",
+            "Precaución en pacientes con glaucoma de ángulo estrecho."
+        ],
+        "efectosSecundarios": [
+            "Boca seca",
+            "Estreñimiento",
+            "Somnolencia",
+            "Visión borrosa"
+        ],
+        "interacciones": [
+            "Otros anticolinérgicos",
+            "Ketoconazol (aumenta niveles plasmáticos)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Ditropan", "Oxibutinina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Oxybutinina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=oxybutynin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "alopurinol",
+        "nombre": "Alopurinol",
+        "principioActivo": "Alopurinol",
+        "categoria": "Rx",
+        "indicaciones": [ "Gota crónica", "Hiperuricemia secundaria", "Litiasis renal por ácido úrico" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100 mg",
+                "notas": "Dosis inicial"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "300 mg",
+                "notas": "Mantenimiento en adultos"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión médica.",
+            "No usar en ataques agudos de gota.",
+            "Puede causar reacciones cutáneas graves.",
+            "Ajustar dosis en insuficiencia renal."
+        ],
+        "efectosSecundarios": [
+            "Exantema cutáneo",
+            "Náusea",
+            "Diarrea",
+            "Elevación de enzimas hepáticas"
+        ],
+        "interacciones": [
+            "Azatioprina",
+            "Mercaptopurina",
+            "Anticoagulantes orales"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Zyloric", "Alopurinol GI", "Allopurinol" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Alopurinol",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=allopurinol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "colchicina",
+        "nombre": "Colchicina",
+        "principioActivo": "Colchicina",
+        "categoria": "Rx",
+        "indicaciones": [ "Crisis aguda de gota", "Profilaxis de gota", "Fiebre mediterránea familiar" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.5–1 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control médico.",
+            "Evitar en insuficiencia renal o hepática grave.",
+            "Riesgo de toxicidad en dosis elevadas.",
+            "No usar concomitantemente con macrólidos potentes (ej. claritromicina)."
+        ],
+        "efectosSecundarios": [
+            "Diarrea",
+            "Dolor abdominal",
+            "Náusea",
+            "Vómito"
+        ],
+        "interacciones": [
+            "Claritromicina",
+            "Ciclosporina",
+            "Estatinas (riesgo de miopatía)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Colchis", "Colchicina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Colchicina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=colchicine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "dutasteride",
+        "nombre": "Dutasteride",
+        "principioActivo": "Dutasteride",
+        "categoria": "Rx",
+        "indicaciones": [ "Hiperplasia prostática benigna (HPB)" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "0.5 mg",
+                "notas": "Adultos, una vez al día"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control médico.",
+            "Contraindicado en mujeres embarazadas.",
+            "Puede tardar 3–6 meses en mostrar efecto clínico."
+        ],
+        "efectosSecundarios": [
+            "Disminución de la libido",
+            "Disfunción eréctil",
+            "Alteraciones en la eyaculación"
+        ],
+        "interacciones": [
+            "Inhibidores potentes de CYP3A4 (ketoconazol, ritonavir)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Avodart", "Dutas", "Dutasteride GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Dutasteride",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dutasteride+randomized"
+            }
+        ]
+    },
+    {
+        "id": "levotiroxina",
+        "nombre": "Levotiroxina",
+        "principioActivo": "Levotiroxina sódica",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipotiroidismo", "Bocio", "Prevención de recurrencia de cáncer de tiroides" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "25–150 mcg",
+                "notas": "Adultos, dosis individualizada"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control endocrinológico.",
+            "Tomar en ayunas, 30 minutos antes de alimentos.",
+            "No sustituir marcas sin control médico."
+        ],
+        "efectosSecundarios": [
+            "Taquicardia",
+            "Insomnio",
+            "Pérdida de peso"
+        ],
+        "interacciones": [
+            "Hierro y calcio (disminuyen absorción)",
+            "Warfarina",
+            "Fenitoína"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Eutirox", "Synthroid", "Levotiroxina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Levotiroxina",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=levothyroxine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "medroxiprogesterona",
+        "nombre": "Medroxiprogesterona",
+        "principioActivo": "Acetato de medroxiprogesterona",
+        "categoria": "Rx",
+        "indicaciones": [ "Anticoncepción", "Trastornos menstruales", "Terapia hormonal" ],
+        "presentaciones": [
+            {
+                "forma": "Inyectable",
+                "dosis": "150 mg/mL",
+                "notas": "Aplicación intramuscular cada 3 meses"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "5–10 mg",
+                "notas": "Regulación menstrual"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión médica.",
+            "No usar en embarazo conocido.",
+            "Precaución en pacientes con trombosis previa."
+        ],
+        "efectosSecundarios": [
+            "Aumento de peso",
+            "Alteraciones menstruales",
+            "Cambios de humor"
+        ],
+        "interacciones": [
+            "Inductores enzimáticos (rifampicina, fenitoína)",
+            "Antirretrovirales"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Provera", "Depo-Provera", "Medroxiprogesterona GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Medroxyprogesterone",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=medroxyprogesterone+randomized"
+            }
+        ]
+    },
+    {
+        "id": "hierro-acido-folico",
+        "nombre": "Hierro + Ácido Fólico",
+        "principioActivo": "Sulfato ferroso + Ácido fólico",
+        "categoria": "OTC",
+        "indicaciones": [ "Anemia por deficiencia de hierro", "Suplemento en embarazo" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "Sulfato ferroso 200–300 mg + Ácido fólico 0.5–1 mg",
+                "notas": "Adultos, una vez al día"
+            }
+        ],
+        "advertencias": [
+            "Puede causar molestias gastrointestinales.",
+            "No exceder la dosis recomendada.",
+            "Precaución en hemocromatosis."
+        ],
+        "efectosSecundarios": [
+            "Estreñimiento",
+            "Náusea",
+            "Heces oscuras"
+        ],
+        "interacciones": [
+            "Levotiroxina",
+            "Quinolonas",
+            "Tetraciclinas"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Ferro-Folic", "Fefol", "Prenatal Plus" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Iron + Folic Acid",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=iron+folic+acid+randomized"
+            }
+        ]
+    },
+    {
+        "id": "minoxidil",
+        "nombre": "Minoxidil",
+        "principioActivo": "Minoxidil",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Alopecia androgenética", "Hipertensión resistente (uso especializado)" ],
+        "presentaciones": [
+            {
+                "forma": "Solución tópica",
+                "dosis": "2% – 5%",
+                "notas": "Aplicación cutánea, uso diario"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "2.5 – 10 mg",
+                "notas": "Hipertensión grave, solo bajo control estricto"
+            }
+        ],
+        "advertencias": [
+            "El uso tópico puede causar irritación local.",
+            "El efecto en alopecia se observa tras 3–6 meses.",
+            "La suspensión abrupta puede revertir el beneficio.",
+            "En hipertensión, requiere receta y estricta supervisión médica."
+        ],
+        "efectosSecundarios": [
+            "Prurito local",
+            "Descamación",
+            "Hipertricosis (exceso de vello en áreas no deseadas)",
+            "Hipotensión (en uso sistémico)"
+        ],
+        "interacciones": [
+            "Otros antihipertensivos (uso oral)",
+            "No relevantes en uso tópico"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Rogaine", "Aloxidil", "Kirkland Minoxidil", "Minoxidil GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Minoxidil",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=minoxidil+randomized"
+            }
+        ]
+    },
+    {
+        "id": "isotretinoina",
+        "nombre": "Isotretinoína",
+        "principioActivo": "Isotretinoína",
+        "categoria": "Rx",
+        "indicaciones": [ "Acné noduloquístico grave", "Acné resistente a otros tratamientos" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "10–40 mg",
+                "notas": "Adultos y adolescentes, dosis ajustada al peso"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control dermatológico.",
+            "Altamente teratógena: contraindicado en embarazo.",
+            "Monitoreo de perfil lipídico y función hepática."
+        ],
+        "efectosSecundarios": [
+            "Sequedad de piel y labios",
+            "Elevación de triglicéridos",
+            "Alteraciones hepáticas"
+        ],
+        "interacciones": [
+            "Tetraciclinas (riesgo de hipertensión intracraneal)",
+            "Vitamina A (riesgo de toxicidad)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Roaccutane", "Isotretinoína GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Isotretinoin",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=isotretinoin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "tretinoina",
+        "nombre": "Tretinoína",
+        "principioActivo": "Tretinoína (ácido retinoico)",
+        "categoria": "Rx",
+        "indicaciones": [ "Acné leve a moderado", "Fotoenvejecimiento", "Melasma" ],
+        "presentaciones": [
+            {
+                "forma": "Crema/Gel",
+                "dosis": "0.025% – 0.05%",
+                "notas": "Aplicación nocturna"
+            }
+        ],
+        "advertencias": [
+            "Uso tópico, evitar contacto con ojos y mucosas.",
+            "Puede causar irritación y eritema inicial.",
+            "No usar en embarazo."
+        ],
+        "efectosSecundarios": [
+            "Irritación local",
+            "Descamación",
+            "Eritema"
+        ],
+        "interacciones": [
+            "Otros retinoides tópicos",
+            "Exposición solar excesiva"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Retin-A", "Avita", "Tretinoína GI" ],
+        "comprarEn": [
+            { "tienda": "San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Tretinoin topical",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tretinoin+topical+randomized"
+            }
+        ]
+    },
+    {
+        "id": "hidrocortisona-topica",
+        "nombre": "Hidrocortisona Tópica",
+        "principioActivo": "Hidrocortisona",
+        "categoria": "OTC",
+        "indicaciones": [ "Dermatitis leve", "Picaduras", "Irritación cutánea" ],
+        "presentaciones": [
+            {
+                "forma": "Crema/Pomada",
+                "dosis": "0.5% – 1%",
+                "notas": "Aplicar 2–3 veces al día"
+            }
+        ],
+        "advertencias": [
+            "No usar en áreas extensas por tiempo prolongado.",
+            "Evitar contacto con ojos.",
+            "No usar en infecciones cutáneas sin tratamiento antibiótico."
+        ],
+        "efectosSecundarios": [
+            "Irritación local",
+            "Atrofia cutánea (uso prolongado)"
+        ],
+        "interacciones": [
+            "Otros corticoides tópicos"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Locoid", "Hidrocortisona GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Hydrocortisone topical",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=hydrocortisone+topical+randomized"
+            }
+        ]
+    },
+    {
+        "id": "vitamina-b12",
+        "nombre": "Vitamina B12",
+        "principioActivo": "Cianocobalamina / Hidroxocobalamina",
+        "categoria": "OTC / Rx",
+        "indicaciones": [ "Deficiencia de vitamina B12", "Anemia megaloblástica", "Neuropatía periférica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "500–1000 mcg",
+                "notas": "Uso oral"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "1000 mcg/mL",
+                "notas": "Uso intramuscular"
+            }
+        ],
+        "advertencias": [
+            "Generalmente segura en dosis habituales.",
+            "Puede ser necesaria de por vida en anemia perniciosa."
+        ],
+        "efectosSecundarios": [
+            "Reacciones locales en inyección",
+            "Raro: acné, prurito"
+        ],
+        "interacciones": [
+            "Metformina (reduce absorción)",
+            "Inhibidores de bomba de protones"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Bedoyecta", "Neurobion", "Cianocobalamina GI" ],
+        "comprarEn": [
+            { "tienda": "San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Vitamin B12 supplementation",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=vitamin+b12+randomized"
+            }
+        ]
+    },
+    {
+        "id": "calcio-vitamina-d",
+        "nombre": "Calcio + Vitamina D",
+        "principioActivo": "Carbonato de calcio + Colecalciferol",
+        "categoria": "OTC",
+        "indicaciones": [ "Osteoporosis", "Prevención de fracturas", "Deficiencia de calcio y vitamina D" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "600 mg Ca + 400 UI Vit D",
+                "notas": "Adultos, 1–2 veces al día"
+            }
+        ],
+        "advertencias": [
+            "Precaución en insuficiencia renal.",
+            "No exceder la dosis recomendada."
+        ],
+        "efectosSecundarios": [
+            "Estreñimiento",
+            "Flatulencia"
+        ],
+        "interacciones": [
+            "Levotiroxina",
+            "Quinolonas",
+            "Tetraciclinas"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Caltrate", "Osteo-D", "Genérico Ca+D" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Calcium + Vitamin D",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=calcium+vitamin+d+randomized"
+            }
+        ]
+    },
+    {
+        "id": "omega-3",
+        "nombre": "Omega-3",
+        "principioActivo": "Ácidos grasos poliinsaturados (EPA + DHA)",
+        "categoria": "OTC",
+        "indicaciones": [ "Hipertrigliceridemia", "Salud cardiovascular", "Suplemento nutricional" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas blandas",
+                "dosis": "1000 mg",
+                "notas": "Adultos, 1–3 veces al día"
+            }
+        ],
+        "advertencias": [
+            "Puede aumentar riesgo de sangrado con anticoagulantes.",
+            "No exceder dosis sin supervisión."
+        ],
+        "efectosSecundarios": [
+            "Reflujo con sabor a pescado",
+            "Náusea",
+            "Diarrea"
+        ],
+        "interacciones": [
+            "Warfarina",
+            "Aspirina"
+        ],
+        "requiereReceta": false,
+        "marcas": [ "Omega 3 Nature’s Bounty", "MegaRed", "Omega-3 GI" ],
+        "comprarEn": [
+            { "tienda": "San Pablo" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Omega-3 fatty acids",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=omega-3+fatty+acids+randomized"
+            }
+        ]
+    },
+    {
+        "id": "pregabalina",
+        "nombre": "Pregabalina",
+        "principioActivo": "Pregabalina",
+        "categoria": "Rx",
+        "indicaciones": [ "Neuropatía diabética", "Fibromialgia", "Epilepsia (adjunto)", "Ansiedad generalizada" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas",
+                "dosis": "75–300 mg",
+                "notas": "Adultos, 1–2 veces al día"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta.",
+            "Puede causar somnolencia y mareos.",
+            "Precaución en insuficiencia renal."
+        ],
+        "efectosSecundarios": [
+            "Somnolencia",
+            "Aumento de peso",
+            "Edema periférico"
+        ],
+        "interacciones": [
+            "Alcohol",
+            "Depresores del SNC"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Lyrica", "Pregabalina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Pregabalin",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=pregabalin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "gabapentina",
+        "nombre": "Gabapentina",
+        "principioActivo": "Gabapentina",
+        "categoria": "Rx",
+        "indicaciones": [ "Neuropatía periférica", "Epilepsia parcial", "Dolor neuropático" ],
+        "presentaciones": [
+            {
+                "forma": "Cápsulas/Tabletas",
+                "dosis": "300–900 mg",
+                "notas": "Adultos, hasta 3 veces al día"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta.",
+            "Puede causar somnolencia y mareos.",
+            "Ajustar dosis en insuficiencia renal."
+        ],
+        "efectosSecundarios": [
+            "Somnolencia",
+            "Mareos",
+            "Aumento de peso"
+        ],
+        "interacciones": [
+            "Alcohol",
+            "Opioides (riesgo de depresión respiratoria)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Neurontin", "Gabapentina GI" ],
+        "comprarEn": [
+            { "tienda": "Benavides" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Gabapentin",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=gabapentin+randomized"
+            }
+        ]
+    },
+    {
+        "id": "escitalopram",
+        "nombre": "Escitalopram",
+        "principioActivo": "Escitalopram oxalato",
+        "categoria": "Rx",
+        "indicaciones": [
+            "Depresión mayor",
+            "Trastorno de ansiedad generalizada",
+            "Trastorno obsesivo-compulsivo",
+            "Trastorno de pánico"
+        ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Dosis inicial adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "20 mg",
+                "notas": "Dosis de mantenimiento"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión médica.",
+            "El inicio de acción puede tardar 2–4 semanas.",
+            "No suspender de forma abrupta.",
+            "Precaución en menores de 18 años (riesgo de ideación suicida)."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Insomnio o somnolencia",
+            "Disfunción sexual",
+            "Cefalea"
+        ],
+        "interacciones": [
+            "Inhibidores de la MAO (riesgo de síndrome serotoninérgico)",
+            "AINEs y anticoagulantes (riesgo de sangrado)",
+            "Alcohol (aumenta efectos sedantes)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Lexapro", "Escitalopram GI", "Lupram" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Escitalopram clinical trials",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=escitalopram+randomized"
+            }
+        ]
+    },
+    {
+        "id": "olanzapina",
+        "nombre": "Olanzapina",
+        "principioActivo": "Olanzapina",
+        "categoria": "Rx",
+        "indicaciones": [
+            "Esquizofrenia",
+            "Trastorno bipolar (episodios maníacos y mixtos)",
+            "Mantenimiento en trastorno bipolar"
+        ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5 mg",
+                "notas": "Inicio en adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "10–20 mg",
+                "notas": "Mantenimiento"
+            },
+            {
+                "forma": "Tabletas orodispersables",
+                "dosis": "5–20 mg",
+                "notas": "Uso en pacientes con dificultad para deglutir"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión psiquiátrica.",
+            "Puede causar aumento de peso y alteraciones metabólicas.",
+            "Monitorear glucosa, lípidos y peso corporal regularmente.",
+            "Evitar en pacientes con riesgo elevado de síndrome metabólico."
+        ],
+        "efectosSecundarios": [
+            "Somnolencia",
+            "Aumento de peso",
+            "Hiperglucemia",
+            "Hiperlipidemia",
+            "Síndrome metabólico"
+        ],
+        "interacciones": [
+            "Alcohol y depresores del SNC (potencian sedación)",
+            "Carbamazepina (disminuye niveles de olanzapina)",
+            "Fluvoxamina (aumenta niveles de olanzapina)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Zyprexa", "Olanzapina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Olanzapine clinical trials",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=olanzapine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "aripiprazol",
+        "nombre": "Aripiprazol",
+        "principioActivo": "Aripiprazol",
+        "categoria": "Rx",
+        "indicaciones": [
+            "Esquizofrenia",
+            "Trastorno bipolar I (episodios maníacos y mixtos)",
+            "Depresión mayor (adjunto a antidepresivos)",
+            "Autismo (irritabilidad asociada)"
+        ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Inicio adultos"
+            },
+            {
+                "forma": "Tabletas",
+                "dosis": "15–30 mg",
+                "notas": "Mantenimiento"
+            },
+            {
+                "forma": "Solución oral",
+                "dosis": "1 mg/mL",
+                "notas": "Uso pediátrico según indicación médica"
+            },
+            {
+                "forma": "Inyectable de liberación prolongada",
+                "dosis": "300–400 mg mensual",
+                "notas": "Tratamiento de mantenimiento"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y control psiquiátrico.",
+            "Menor riesgo metabólico comparado con otros antipsicóticos.",
+            "Precaución en pacientes con antecedentes de convulsiones.",
+            "No suspender abruptamente."
+        ],
+        "efectosSecundarios": [
+            "Insomnio",
+            "Inquietud (acatisia)",
+            "Ansiedad",
+            "Cefalea",
+            "Menor riesgo de aumento de peso comparado con olanzapina"
+        ],
+        "interacciones": [
+            "Inhibidores de CYP3A4 (ketoconazol, claritromicina)",
+            "Inductores de CYP3A4 (carbamazepina, rifampicina)",
+            "Alcohol y depresores del SNC"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Abilify", "Aripiprazol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Aripiprazole clinical trials",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=aripiprazole+randomized"
+            }
+        ]
+    },
+    {
+        "id": "haloperidol",
+        "nombre": "Haloperidol",
+        "principioActivo": "Haloperidol",
+        "categoria": "Rx",
+        "indicaciones": [
+            "Esquizofrenia",
+            "Episodios psicóticos agudos",
+            "Agitación psicomotora",
+            "Delirium (uso hospitalario)",
+            "Tics y síndrome de Tourette"
+        ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1–5 mg",
+                "notas": "Adultos: dividir 2–3 veces al día según respuesta"
+            },
+            {
+                "forma": "Solución oral",
+                "dosis": "2 mg/mL",
+                "notas": "Ajuste fino de dosis"
+            },
+            {
+                "forma": "Inyectable IM/IV",
+                "dosis": "5 mg/mL",
+                "notas": "Urgencias / hospitalario"
+            },
+            {
+                "forma": "Inyectable depot (decanoato)",
+                "dosis": "50–100 mg/mL",
+                "notas": "Liberación prolongada cada 4 semanas"
+            }
+        ],
+        "advertencias": [
+            "Requiere receta y supervisión psiquiátrica.",
+            "Riesgo de síntomas extrapiramidales y distonías agudas.",
+            "Prolongación del QT: precaución en arritmias y con fármacos que prolongan QT.",
+            "Vigilar síndrome neuroléptico maligno ante fiebre/rigidez/alteración mental."
+        ],
+        "efectosSecundarios": [
+            "Somnolencia",
+            "Síntomas extrapiramidales (temblor, rigidez, acatisia)",
+            "Hipotensión",
+            "Hiperprolactinemia",
+            "QT prolongado"
+        ],
+        "interacciones": [
+            "Antiarrítmicos y macrólidos (riesgo de QT prolongado)",
+            "Carbamazepina (reduce niveles de haloperidol)",
+            "Alcohol y depresores del SNC (sedación aumentada)"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Haldol", "Haloperidol GI", "Haldol Decanoato" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Haloperidol randomized trials",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=haloperidol+randomized"
+            }
+        ]
+    },
+    {
+        "id": "sumatriptan",
+        "nombre": "Sumatriptán",
+        "principioActivo": "Sumatriptán",
+        "categoria": "Rx",
+        "indicaciones": [ "Crisis aguda de migraña con o sin aura" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50–100 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Inyectable",
+                "dosis": "6 mg/0.5 mL",
+                "notas": "Uso subcutáneo"
+            }
+        ],
+        "advertencias": [
+            "No usar en enfermedad coronaria o hipertensión no controlada.",
+            "No indicado en profilaxis de migraña."
+        ],
+        "efectosSecundarios": [
+            "Sensación de opresión torácica",
+            "Mareos",
+            "Somnolencia"
+        ],
+        "interacciones": [
+            "Inhibidores de la MAO",
+            "Otros triptanos",
+            "Ergotamínicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Imigran", "Sumatriptán GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Sumatriptán en migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sumatriptan+migraine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "levodopa-carbidopa",
+        "nombre": "Levodopa + Carbidopa",
+        "principioActivo": "Levodopa / Carbidopa",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson", "Síndromes parkinsonianos" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100/25 mg, 250/25 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No suspender abruptamente.",
+            "Precaución en pacientes con glaucoma o enfermedad cardiovascular."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Discinesias",
+            "Hipotensión ortostática"
+        ],
+        "interacciones": [
+            "Antipsicóticos",
+            "Inhibidores no selectivos de la MAO"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Sinemet", "Parcopa" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Levodopa/Carbidopa en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=levodopa+carbidopa+randomized"
+            }
+        ]
+    },
+    {
+        "id": "rizatriptan",
+        "nombre": "Rizatriptán",
+        "principioActivo": "Rizatriptán",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento agudo de migraña con o sin aura" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas bucodispersables",
+                "dosis": "10 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No usar en cardiopatía isquémica o hipertensión no controlada.",
+            "No indicado en profilaxis."
+        ],
+        "efectosSecundarios": [
+            "Somnolencia",
+            "Mareos",
+            "Fatiga"
+        ],
+        "interacciones": [
+            "Propranolol",
+            "Otros triptanos",
+            "Ergotamínicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Maxalt", "Rizalt" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Rizatriptán en migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=rizatriptan+migraine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "zolmitriptan",
+        "nombre": "Zolmitriptán",
+        "principioActivo": "Zolmitriptán",
+        "categoria": "Rx",
+        "indicaciones": [ "Crisis de migraña con o sin aura" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "2.5–5 mg",
+                "notas": "Adultos"
+            },
+            {
+                "forma": "Tabletas bucodispersables",
+                "dosis": "2.5 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Evitar en enfermedad coronaria o vasculopatías.",
+            "No usar junto con otros triptanos en 24 horas."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Mareos",
+            "Sensación de presión torácica"
+        ],
+        "interacciones": [
+            "Inhibidores de la MAO-A",
+            "Ergotamínicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Zomig", "Zolmitriptán GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Zolmitriptán en migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=zolmitriptan+migraine+randomized"
+            }
+        ]
+    },
+    {
+        "id": "pramipexol",
+        "nombre": "Pramipexol",
+        "principioActivo": "Pramipexol",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson", "Síndrome de piernas inquietas" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.125–1.5 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Puede causar somnolencia súbita.",
+            "Precaución en insuficiencia renal."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Somnolencia",
+            "Hipotensión ortostática"
+        ],
+        "interacciones": [
+            "Antipsicóticos",
+            "Alcohol"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Sifrol", "Mirapex" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Pramipexol en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=pramipexole+parkinson+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ropinirol",
+        "nombre": "Ropinirol",
+        "principioActivo": "Ropinirol",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson", "Síndrome de piernas inquietas" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.25–8 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Puede provocar alucinaciones o somnolencia.",
+            "No suspender de forma abrupta."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Mareos",
+            "Somnolencia"
+        ],
+        "interacciones": [
+            "Antipsicóticos",
+            "Alcohol"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Requip", "Ropinirol GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ropinirol en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ropinirole+parkinson+randomized"
+            }
+        ]
+    },
+    {
+        "id": "ergotamina-cafeina",
+        "nombre": "Ergotamina + Cafeína",
+        "principioActivo": "Ergotamina tartrato + Cafeína",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento de crisis de migraña" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg / 100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No usar en embarazo (riesgo de vasoconstricción uterina).",
+            "Evitar en enfermedad cardiovascular o hipertensión."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Vasoconstricción periférica",
+            "Insomnio"
+        ],
+        "interacciones": [
+            "Triptanos",
+            "Macrólidos",
+            "Inhibidores potentes del CYP3A4"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Cafergot", "Ergomar" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Ergotamina y cafeína en migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=ergotamine+caffeine+migraine"
+            }
+        ]
+    },
+    {
+        "id": "selegilina",
+        "nombre": "Selegilina",
+        "principioActivo": "Selegilina",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson (coadyuvante con levodopa)", "Depresión mayor (algunas presentaciones)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "5–10 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Evitar combinación con antidepresivos ISRS/IRSN (riesgo de síndrome serotoninérgico).",
+            "Puede causar insomnio si se administra tarde."
+        ],
+        "efectosSecundarios": [
+            "Mareos",
+            "Insomnio",
+            "Náusea"
+        ],
+        "interacciones": [
+            "ISRS",
+            "IRSN",
+            "Meperidina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Eldepryl", "Jumex" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Selegilina en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=selegiline+parkinson"
+            }
+        ]
+    },
+    {
+        "id": "entacapona",
+        "nombre": "Entacapona",
+        "principioActivo": "Entacapona",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson (coadyuvante con levodopa/carbidopa)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "200 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Siempre usar junto con levodopa/carbidopa, no en monoterapia.",
+            "Puede causar coloración marrón-rojiza de la orina (inofensiva)."
+        ],
+        "efectosSecundarios": [
+            "Diarrea",
+            "Mareos",
+            "Discinesias"
+        ],
+        "interacciones": [
+            "Levodopa",
+            "Otros inhibidores de la COMT"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Comtan", "Stalevo (con levodopa/carbidopa)" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Entacapona en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=entacapone+parkinson"
+            }
+        ]
+    },
+    {
+        "id": "rasagilina",
+        "nombre": "Rasagilina",
+        "principioActivo": "Rasagilina",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson (monoterapia o coadyuvante con levodopa)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "1 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Evitar combinación con antidepresivos ISRS/IRSN.",
+            "Puede aumentar riesgo de hipotensión ortostática."
+        ],
+        "efectosSecundarios": [
+            "Cefalea",
+            "Artralgia",
+            "Hipotensión ortostática"
+        ],
+        "interacciones": [
+            "ISRS",
+            "IRSN",
+            "Meperidina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Azilect" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Rasagilina en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=rasagiline+parkinson"
+            }
+        ]
+    },
+    {
+        "id": "safinamida",
+        "nombre": "Safinamida",
+        "principioActivo": "Safinamida",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson (en combinación con levodopa)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50–100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No usar con otros inhibidores de la MAO.",
+            "Precaución en insuficiencia hepática."
+        ],
+        "efectosSecundarios": [
+            "Discinesias",
+            "Náusea",
+            "Insomnio"
+        ],
+        "interacciones": [
+            "Antidepresivos",
+            "Opioides"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Xadago" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Safinamida en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=safinamide+parkinson"
+            }
+        ]
+    },
+    {
+        "id": "amantadina",
+        "nombre": "Amantadina",
+        "principioActivo": "Amantadina",
+        "categoria": "Rx",
+        "indicaciones": [ "Enfermedad de Parkinson", "Discinesias inducidas por levodopa", "Profilaxis de influenza A (menos usado)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "100 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Precaución en insuficiencia renal.",
+            "Puede causar síndrome neuroléptico maligno si se suspende bruscamente."
+        ],
+        "efectosSecundarios": [
+            "Mareos",
+            "Insomnio",
+            "Livedo reticularis"
+        ],
+        "interacciones": [
+            "Anticolinérgicos",
+            "Alcohol"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Symmetrel", "Amantadina GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Amantadina en Parkinson",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=amantadine+parkinson"
+            }
+        ]
+    },
+    {
+        "id": "valproato",
+        "nombre": "Ácido valproico (Valproato)",
+        "principioActivo": "Ácido valproico",
+        "categoria": "Rx",
+        "indicaciones": [ "Epilepsia", "Trastorno bipolar", "Profilaxis de migraña" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "250–500 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Contraindicado en embarazo (teratogénico).",
+            "Monitorear función hepática y niveles plasmáticos."
+        ],
+        "efectosSecundarios": [
+            "Aumento de peso",
+            "Temblor",
+            "Hepatotoxicidad"
+        ],
+        "interacciones": [
+            "Carbamazepina",
+            "Fenitoína",
+            "Lamotrigina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Depakene", "Valpakine", "Valproato GI" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Valproato en profilaxis de migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=valproate+migraine+prophylaxis"
+            }
+        ]
+    },
+    {
+        "id": "propranolol",
+        "nombre": "Propranolol",
+        "principioActivo": "Propranolol",
+        "categoria": "Rx",
+        "indicaciones": [ "Hipertensión", "Angina", "Arritmias", "Profilaxis de migraña", "Ansiedad (uso sintomático)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "40–80 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Contraindicado en asma.",
+            "Precaución en insuficiencia cardiaca."
+        ],
+        "efectosSecundarios": [
+            "Bradicardia",
+            "Fatiga",
+            "Broncoespasmo"
+        ],
+        "interacciones": [
+            "Otros betabloqueadores",
+            "Verapamilo",
+            "Digoxina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Inderal", "Sumial" ],
+        "comprarEn": [
+            { "tienda": "Farmacia San Pablo" },
+            { "tienda": "Farmacias del Ahorro" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Propranolol en profilaxis de migraña",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=propranolol+migraine+prophylaxis"
+            }
+        ]
+    },
+    {
+        "id": "tenofovir",
+        "nombre": "Tenofovir",
+        "principioActivo": "Tenofovir disoproxil fumarato",
+        "categoria": "Rx",
+        "indicaciones": [ "VIH-1 en combinación con otros antirretrovirales", "Hepatitis B crónica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "300 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Monitorear función renal y ósea.",
+            "Usar siempre en terapia combinada para VIH."
+        ],
+        "efectosSecundarios": [
+            "Náusea",
+            "Dolor de cabeza",
+            "Nefrotoxicidad"
+        ],
+        "interacciones": [
+            "Didanosina",
+            "Antivirales nefrotóxicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Viread", "Genérico Tenofovir" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Tenofovir en VIH",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=tenofovir+HIV"
+            }
+        ]
+    },
+    {
+        "id": "efavirenz",
+        "nombre": "Efavirenz",
+        "principioActivo": "Efavirenz",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento de VIH-1 en combinación con otros antirretrovirales" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "600 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Puede causar efectos neuropsiquiátricos.",
+            "Evitar en embarazo (primer trimestre)."
+        ],
+        "efectosSecundarios": [
+            "Mareos",
+            "Sueños vívidos",
+            "Rash cutáneo"
+        ],
+        "interacciones": [
+            "Anticonvulsivos",
+            "Antifúngicos azólicos",
+            "Rifampicina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Sustiva", "Stocrin" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Efavirenz en VIH",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=efavirenz+HIV"
+            }
+        ]
+    },
+    {
+        "id": "lamivudina",
+        "nombre": "Lamivudina",
+        "principioActivo": "Lamivudina",
+        "categoria": "Rx",
+        "indicaciones": [ "VIH-1 y VIH-2 en combinación con otros ARV", "Hepatitis B crónica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "150–300 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No usar como monoterapia para VIH.",
+            "Monitorear función hepática."
+        ],
+        "efectosSecundarios": [
+            "Cefalea",
+            "Fatiga",
+            "Náusea"
+        ],
+        "interacciones": [
+            "Trimethoprim",
+            "Otros análogos de nucleósidos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Epivir", "3TC" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacia San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Lamivudina en VIH",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=lamivudine+HIV"
+            }
+        ]
+    },
+    {
+        "id": "dolutegravir",
+        "nombre": "Dolutegravir",
+        "principioActivo": "Dolutegravir",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento de VIH-1 (esquemas de primera línea)" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "50 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Evitar en embarazo temprano.",
+            "Monitorear función hepática."
+        ],
+        "efectosSecundarios": [
+            "Insomnio",
+            "Cefalea",
+            "Aumento de peso"
+        ],
+        "interacciones": [
+            "Antiácidos con aluminio/magnesio",
+            "Rifampicina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Tivicay", "Triumeq (con abacavir + lamivudina)" ],
+        "comprarEn": [
+            { "tienda": "Farmacias Guadalajara" },
+            { "tienda": "Benavides" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Dolutegravir en VIH",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=dolutegravir+HIV"
+            }
+        ]
+    },
+    {
+        "id": "sofosbuvir",
+        "nombre": "Sofosbuvir",
+        "principioActivo": "Sofosbuvir",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento de hepatitis C crónica en combinación con otros antivirales" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "400 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "Nunca usar en monoterapia.",
+            "Precaución en insuficiencia renal severa."
+        ],
+        "efectosSecundarios": [
+            "Fatiga",
+            "Cefalea",
+            "Náusea"
+        ],
+        "interacciones": [
+            "Amiodarona (bradicardia grave)",
+            "Rifampicina"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Sovaldi", "Harvoni (con ledipasvir)" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacias Guadalajara" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Sofosbuvir en Hepatitis C",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=sofosbuvir+hepatitis+C"
+            }
+        ]
+    },
+    {
+        "id": "entecavir",
+        "nombre": "Entecavir",
+        "principioActivo": "Entecavir",
+        "categoria": "Rx",
+        "indicaciones": [ "Tratamiento de hepatitis B crónica" ],
+        "presentaciones": [
+            {
+                "forma": "Tabletas",
+                "dosis": "0.5–1 mg",
+                "notas": "Adultos"
+            }
+        ],
+        "advertencias": [
+            "No usar como monoterapia en VIH.",
+            "Monitorear función hepática."
+        ],
+        "efectosSecundarios": [
+            "Cefalea",
+            "Fatiga",
+            "Náusea"
+        ],
+        "interacciones": [
+            "Otros antivirales para HBV",
+            "Medicamentos nefrotóxicos"
+        ],
+        "requiereReceta": true,
+        "marcas": [ "Baraclude" ],
+        "comprarEn": [
+            { "tienda": "Farmacias del Ahorro" },
+            { "tienda": "Farmacia San Pablo" }
+        ],
+        "papers": [
+            {
+                "titulo": "PubMed — Entecavir en Hepatitis B",
+                "fuente": "PubMed",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/?term=entecavir+hepatitis+B"
+            }
+        ]
+    }
+
+
+]
