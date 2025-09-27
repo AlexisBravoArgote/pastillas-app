@@ -5,7 +5,7 @@ const geistSans = Geist({ subsets: ["latin"], variable: "--font-geist-sans" });
 const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono" });
 
 export const metadata = {
-    title: "pastillas.net",
+    title: "pastillas.app",
     description: "Prototipo MX",
 };
 
