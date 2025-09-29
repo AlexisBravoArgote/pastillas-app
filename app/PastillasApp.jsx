@@ -1533,6 +1533,7 @@ export default function PastillasApp() {
                         <div className="flex items-center gap-3">
                             <a className="underline" href="https://www.gob.mx/cofepris" target="_blank">COFEPRIS</a>
                             <a className="underline" href="https://salud.gob.mx" target="_blank">Secretaría de Salud</a>
+                            <a className="underline" href="https://argotelabs.com" target="_blank">Argote Labs</a>
                         </div>
                     </div>
                 </footer>
